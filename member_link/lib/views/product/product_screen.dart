@@ -251,7 +251,48 @@ class _ProductScreenState extends State<ProductScreen> {
               children: [
                 Expanded(
                   child: displayedProducts.isEmpty
-                      ? const Center(child: Text('No products available.'))
+                      ? Center(
+                          child: Column(
+                            mainAxisAlignment: MainAxisAlignment.center,
+                            children: [
+                              const Icon(
+                                Icons.shopping_bag_outlined,
+                                color: Colors.orange,
+                                size: 100,
+                              ),
+                              const SizedBox(height: 20),
+                              Text(
+                                'No Products Available!',
+                                style: TextStyle(
+                                  fontSize: 22,
+                                  fontWeight: FontWeight.bold,
+                                  color: Colors.orange[800],
+                                ),
+                              ),
+                              const SizedBox(height: 10),
+                              Text(
+                                'Please check back later or refresh the page.',
+                                style: TextStyle(
+                                  fontSize: 16,
+                                  color: Colors.grey[600],
+                                ),
+                                textAlign: TextAlign.center,
+                              ),
+                              const SizedBox(height: 30),
+                              ElevatedButton.icon(
+                                onPressed: fetchProducts, // Reload products
+                                icon: const Icon(Icons.refresh),
+                                label: const Text('Refresh'),
+                                style: ElevatedButton.styleFrom(
+                                  backgroundColor: Colors.orange,
+                                  foregroundColor: Colors.white,
+                                  padding: const EdgeInsets.symmetric(
+                                      horizontal: 24, vertical: 12),
+                                ),
+                              ),
+                            ],
+                          ),
+                        )
                       : ListView.builder(
                           itemCount: displayedProducts.length,
                           itemBuilder: (context, index) {
