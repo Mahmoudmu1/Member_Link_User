@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:member_link/views/product/product_screen.dart';
 
 class AppDrawer extends StatelessWidget {
   final Function onLogout;
@@ -27,17 +28,32 @@ class AppDrawer extends StatelessWidget {
             leading: const Icon(Icons.article),
             title: const Text('News'),
             onTap: () {
-              Navigator.pop(context);
+              Navigator.pop(context); // Close the drawer
+            },
+          ),
+          ListTile(
+            leading: const Icon(Icons.shopping_cart), // New Icon for Products
+            title: const Text('Products'),
+            onTap: () {
+              Navigator.pop(context); // Close the drawer
+              Navigator.push(
+                context,
+                MaterialPageRoute(
+                    builder: (context) =>
+                        const ProductScreen()), // Navigate to Product Screen
+              );
             },
           ),
           ListTile(
             leading: const Icon(Icons.event),
             title: const Text('Events'),
             onTap: () {
-              Navigator.pop(context);
+              Navigator.pop(context); // Close the drawer
               Navigator.push(
                 context,
-                MaterialPageRoute(builder: (context) => const EventsPage()),
+                MaterialPageRoute(
+                    builder: (context) =>
+                        const EventsPage()), // Navigate to Events Page
               );
             },
           ),
@@ -45,7 +61,7 @@ class AppDrawer extends StatelessWidget {
             leading: const Icon(Icons.settings),
             title: const Text('Settings'),
             onTap: () {
-              Navigator.pop(context);
+              Navigator.pop(context); // Close the drawer
               // Navigate to a Settings page (not implemented here)
             },
           ),
