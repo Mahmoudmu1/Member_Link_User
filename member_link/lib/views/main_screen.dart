@@ -1,34 +1,38 @@
+// ignore_for_file: use_build_context_synchronously, library_private_types_in_public_api
+
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'package:member_link/myconfig.dart';
-import 'package:member_link/views/drawer.dart';
+import 'package:member_link/views/shared/drawer.dart';
 import 'package:member_link/views/auth/login_screen.dart';
+import 'package:member_link/models/user.dart';
 
 class MainScreen extends StatefulWidget {
-  const MainScreen({super.key});
+  final User user;
+
+  const MainScreen({super.key, required this.user});
 
   @override
-  // ignore: library_private_types_in_public_api
   _MainScreenState createState() => _MainScreenState();
 }
 
 class _MainScreenState extends State<MainScreen> {
-  List<dynamic> allNews = []; // Stores all news data
-  List<dynamic> currentNewsPage = []; // Stores paginated/filtered news
-  int currentPage = 1; // Current page for pagination
-  int totalPages = 1; // Total number of pages
-  int totalNews = 0; // Total number of news
-  int limit = 6; // Number of news items per page
-  bool isLoading = false; // Loading state
-  String searchQuery = ''; // The search query
-  bool isSearching = false; // To toggle between title and search box
+  List<dynamic> allNews = [];
+  List<dynamic> currentNewsPage = [];
+  int currentPage = 1;
+  int totalPages = 1;
+  int totalNews = 0;
+  int limit = 6;
+  bool isLoading = false;
+  String searchQuery = '';
+  bool isSearching = false;
   final TextEditingController _searchController = TextEditingController();
 
   @override
   void initState() {
     super.initState();
-    fetchNews(); // Fetch all news on initialization
+    fetchNews();
   }
 
   Future<void> fetchNews({int page = 1, String searchQuery = ''}) async {
@@ -50,7 +54,7 @@ class _MainScreenState extends State<MainScreen> {
             currentNewsPage = List<dynamic>.from(data['data']['news']);
             totalNews = data['numberofresult'];
             totalPages = data['numofpage'];
-            currentPage = page; // Keep current page intact
+            currentPage = page;
           });
         } else {
           showError("No news found.");
@@ -72,21 +76,9 @@ class _MainScreenState extends State<MainScreen> {
     }
   }
 
-  void updateCurrentPageNews() {
-    int start = (currentPage - 1) * limit;
-    int end = start + limit;
-    setState(() {
-      currentNewsPage = allNews.sublist(
-        start,
-        end > totalNews ? totalNews : end,
-      );
-    });
-  }
-
   void filterNews(String query) {
     setState(() {
       searchQuery = query;
-      // Don't reset page number, just fetch news based on the current page and search query
       fetchNews(page: currentPage, searchQuery: searchQuery);
     });
   }
@@ -101,9 +93,8 @@ class _MainScreenState extends State<MainScreen> {
   }
 
   Future<void> onRefresh() async {
-    await fetchNews(); // Fetch updated news from the backend
+    await fetchNews();
 
-    // ignore: use_build_context_synchronously
     ScaffoldMessenger.of(context).showSnackBar(
       const SnackBar(
         content: Text('Newsfeed reloaded successfully!'),
@@ -189,13 +180,13 @@ class _MainScreenState extends State<MainScreen> {
                 height: 48,
                 margin: const EdgeInsets.symmetric(horizontal: 8.0),
                 decoration: BoxDecoration(
-                  color: Colors.grey[200], // Light background color
-                  borderRadius: BorderRadius.circular(24), // Rounded corners
+                  color: Colors.grey[200],
+                  borderRadius: BorderRadius.circular(24),
                 ),
                 child: TextField(
                   controller: _searchController,
                   autofocus: true,
-                  textAlign: TextAlign.left, // Start typing from the left
+                  textAlign: TextAlign.left,
                   style: const TextStyle(
                     fontSize: 16,
                     color: Colors.black,
@@ -204,9 +195,8 @@ class _MainScreenState extends State<MainScreen> {
                     filterNews(query);
                   },
                   decoration: const InputDecoration(
-                    contentPadding: EdgeInsets.symmetric(
-                        horizontal: 16.0), // Add padding inside the field
-                    hintText: 'Search News...', // Placeholder text
+                    contentPadding: EdgeInsets.symmetric(horizontal: 16.0),
+                    hintText: 'Search News...',
                     border: InputBorder.none,
                   ),
                 ),
@@ -227,15 +217,18 @@ class _MainScreenState extends State<MainScreen> {
               setState(() {
                 isSearching = !isSearching;
                 if (!isSearching) {
-                  _searchController.clear(); // Clear search input
-                  filterNews(''); // Reset to full list
+                  _searchController.clear();
+                  filterNews('');
                 }
               });
             },
           ),
         ],
       ),
-      drawer: AppDrawer(onLogout: handleLogout),
+      drawer: AppDrawer(
+        onLogout: handleLogout,
+        user: widget.user, // Pass the user from MainScreen
+      ),
       body: RefreshIndicator(
         onRefresh: onRefresh,
         child: Column(
@@ -301,7 +294,7 @@ class _MainScreenState extends State<MainScreen> {
                           ? () {
                               fetchNews(page: currentPage - 1);
                             }
-                          : null, // Disable if on the first page
+                          : null,
                     ),
                     Text(
                       'Page $currentPage of $totalPages',
@@ -313,7 +306,7 @@ class _MainScreenState extends State<MainScreen> {
                           ? () {
                               fetchNews(page: currentPage + 1);
                             }
-                          : null, // Disable if on the last page
+                          : null,
                     ),
                   ],
                 ),

@@ -1,0 +1,1043 @@
+[12-Jan-2025 15:06:42 UTC] PHP Notice:  Undefined variable: array in /home4/mhmounyc/public_html/memberlink/api/load_news.php on line 48
+[12-Jan-2025 15:36:15 UTC] PHP Notice:  Undefined variable: server_url in /home4/mhmounyc/public_html/memberlink/api/load_membership.php on line 25
+[12-Jan-2025 15:36:15 UTC] PHP Notice:  Undefined variable: server_url in /home4/mhmounyc/public_html/memberlink/api/load_membership.php on line 25
+[12-Jan-2025 15:39:05 UTC] PHP Notice:  Undefined variable: server_url in /home4/mhmounyc/public_html/memberlink/api/load_membership.php on line 25
+[12-Jan-2025 15:39:05 UTC] PHP Notice:  Undefined variable: server_url in /home4/mhmounyc/public_html/memberlink/api/load_membership.php on line 25
+[12-Jan-2025 15:44:38 UTC] PHP Notice:  Undefined variable: server_url in /home4/mhmounyc/public_html/memberlink/api/load_membership.php on line 25
+[12-Jan-2025 15:44:38 UTC] PHP Notice:  Undefined variable: server_url in /home4/mhmounyc/public_html/memberlink/api/load_membership.php on line 25
+[12-Jan-2025 15:55:14 UTC] PHP Notice:  Undefined variable: server_url in /home4/mhmounyc/public_html/memberlink/api/load_membership.php on line 24
+[12-Jan-2025 15:55:14 UTC] PHP Notice:  Undefined variable: server_url in /home4/mhmounyc/public_html/memberlink/api/load_membership.php on line 24
+[12-Jan-2025 15:57:19 UTC] PHP Notice:  Undefined variable: server_url in /home4/mhmounyc/public_html/memberlink/api/load_membership.php on line 24
+[12-Jan-2025 15:57:19 UTC] PHP Notice:  Undefined variable: server_url in /home4/mhmounyc/public_html/memberlink/api/load_membership.php on line 24
+[12-Jan-2025 15:59:54 UTC] PHP Notice:  Undefined variable: server_url in /home4/mhmounyc/public_html/memberlink/api/load_membership.php on line 24
+[12-Jan-2025 15:59:54 UTC] PHP Notice:  Undefined variable: server_url in /home4/mhmounyc/public_html/memberlink/api/load_membership.php on line 24
+[12-Jan-2025 16:05:02 UTC] PHP Notice:  Undefined variable: server_url in /home4/mhmounyc/public_html/memberlink/api/load_membership.php on line 26
+[12-Jan-2025 16:05:02 UTC] PHP Notice:  Undefined variable: server_url in /home4/mhmounyc/public_html/memberlink/api/load_membership.php on line 26
+[12-Jan-2025 16:52:19 UTC] PHP Notice:  Undefined index: user_id in /home4/mhmounyc/public_html/memberlink/api/add_payment.php on line 8
+[12-Jan-2025 16:52:19 UTC] PHP Notice:  Undefined index: membership_id in /home4/mhmounyc/public_html/memberlink/api/add_payment.php on line 9
+[12-Jan-2025 16:52:19 UTC] PHP Notice:  Undefined index: payment_amount in /home4/mhmounyc/public_html/memberlink/api/add_payment.php on line 10
+[12-Jan-2025 16:52:19 UTC] PHP Notice:  Undefined index: newsid in /home4/mhmounyc/public_html/memberlink/api/delete_news.php on line 9
+[12-Jan-2025 16:52:19 UTC] PHP Notice:  Undefined index: title in /home4/mhmounyc/public_html/memberlink/api/insert_news.php on line 9
+[12-Jan-2025 16:52:19 UTC] PHP Notice:  Undefined index: details in /home4/mhmounyc/public_html/memberlink/api/insert_news.php on line 10
+[12-Jan-2025 16:52:19 UTC] PHP Notice:  Undefined index: email in /home4/mhmounyc/public_html/memberlink/api/login_user.php on line 9
+[12-Jan-2025 16:52:19 UTC] PHP Notice:  Undefined index: password in /home4/mhmounyc/public_html/memberlink/api/login_user.php on line 10
+[12-Jan-2025 16:52:20 UTC] PHP Notice:  Undefined index: full_name in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 10
+[12-Jan-2025 16:52:20 UTC] PHP Notice:  Undefined index: gender in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 11
+[12-Jan-2025 16:52:20 UTC] PHP Notice:  Undefined index: email in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 12
+[12-Jan-2025 16:52:20 UTC] PHP Notice:  Undefined index: phone in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 13
+[12-Jan-2025 16:52:20 UTC] PHP Notice:  Undefined index: password in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 14
+[12-Jan-2025 17:08:07 UTC] PHP Notice:  Undefined index: user_id in /home4/mhmounyc/public_html/memberlink/api/add_payment.php on line 8
+[12-Jan-2025 17:08:07 UTC] PHP Notice:  Undefined index: membership_id in /home4/mhmounyc/public_html/memberlink/api/add_payment.php on line 9
+[12-Jan-2025 17:08:07 UTC] PHP Notice:  Undefined index: payment_amount in /home4/mhmounyc/public_html/memberlink/api/add_payment.php on line 10
+[12-Jan-2025 17:08:09 UTC] PHP Notice:  Undefined index: user_id in /home4/mhmounyc/public_html/memberlink/api/add_payment.php on line 8
+[12-Jan-2025 17:08:09 UTC] PHP Notice:  Undefined index: membership_id in /home4/mhmounyc/public_html/memberlink/api/add_payment.php on line 9
+[12-Jan-2025 17:08:09 UTC] PHP Notice:  Undefined index: payment_amount in /home4/mhmounyc/public_html/memberlink/api/add_payment.php on line 10
+[12-Jan-2025 17:18:23 UTC] PHP Notice:  Undefined index: full_name in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 10
+[12-Jan-2025 17:18:23 UTC] PHP Notice:  Undefined index: gender in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 11
+[12-Jan-2025 17:18:23 UTC] PHP Notice:  Undefined index: email in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 12
+[12-Jan-2025 17:18:23 UTC] PHP Notice:  Undefined index: phone in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 13
+[12-Jan-2025 17:18:23 UTC] PHP Notice:  Undefined index: password in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 14
+[12-Jan-2025 17:21:51 UTC] PHP Notice:  Undefined index: full_name in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 10
+[12-Jan-2025 17:21:51 UTC] PHP Notice:  Undefined index: gender in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 11
+[12-Jan-2025 17:21:51 UTC] PHP Notice:  Undefined index: email in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 12
+[12-Jan-2025 17:21:51 UTC] PHP Notice:  Undefined index: phone in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 13
+[12-Jan-2025 17:21:51 UTC] PHP Notice:  Undefined index: password in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 14
+[13-Jan-2025 00:55:28 UTC] PHP Notice:  Undefined index: user_id in /home4/mhmounyc/public_html/memberlink/api/add_payment.php on line 8
+[13-Jan-2025 00:55:28 UTC] PHP Notice:  Undefined index: membership_id in /home4/mhmounyc/public_html/memberlink/api/add_payment.php on line 9
+[13-Jan-2025 00:55:28 UTC] PHP Notice:  Undefined index: payment_amount in /home4/mhmounyc/public_html/memberlink/api/add_payment.php on line 10
+[13-Jan-2025 00:55:29 UTC] PHP Notice:  Undefined index: full_name in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 10
+[13-Jan-2025 00:55:29 UTC] PHP Notice:  Undefined index: gender in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 11
+[13-Jan-2025 00:55:29 UTC] PHP Notice:  Undefined index: email in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 12
+[13-Jan-2025 00:55:29 UTC] PHP Notice:  Undefined index: phone in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 13
+[13-Jan-2025 00:55:29 UTC] PHP Notice:  Undefined index: password in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 14
+[13-Jan-2025 00:55:29 UTC] PHP Notice:  Undefined index: newsid in /home4/mhmounyc/public_html/memberlink/api/delete_news.php on line 9
+[13-Jan-2025 00:55:41 UTC] PHP Notice:  Undefined index: email in /home4/mhmounyc/public_html/memberlink/api/login_user.php on line 9
+[13-Jan-2025 00:55:41 UTC] PHP Notice:  Undefined index: password in /home4/mhmounyc/public_html/memberlink/api/login_user.php on line 10
+[13-Jan-2025 06:21:10 UTC] PHP Notice:  Undefined index: identifier in /home4/mhmounyc/public_html/memberlink/api/login_user.php on line 11
+[13-Jan-2025 06:21:10 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home4/mhmounyc/public_html/memberlink/api/login_user.php on line 21
+[13-Jan-2025 06:47:58 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home4/mhmounyc/public_html/memberlink/api/login_user.php on line 20
+[13-Jan-2025 08:14:18 UTC] User details - Email: Jay@email.com, Phone: 123455, Name: Jay
+[13-Jan-2025 08:18:47 UTC] User details - Email: Jay@email.com, Phone: 0123704402, Name: Jay
+[13-Jan-2025 08:23:27 UTC] User details - Email: Jay@email.com, Phone: 0123704402, Name: Jay
+[13-Jan-2025 08:57:49 UTC] User details - Email: Jay@email.com, Phone: 0123704402, Name: Jay
+[13-Jan-2025 08:59:52 UTC] User details - Email: Jay@email.com, Phone: 0123704402, Name: Jay
+[13-Jan-2025 09:04:48 UTC] User details - Email: Jay@email.com, Phone: 0123704402, Name: Jay
+[13-Jan-2025 09:09:46 UTC] User details - Email: Jay@email.com, Phone: 0123704402, Name: Jay
+[13-Jan-2025 09:45:57 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 09:45:57 UTC] Received Amount: 19.99
+[13-Jan-2025 09:45:57 UTC] Received Checkout Type: membership
+[13-Jan-2025 09:45:57 UTC] Received Membership ID: 1
+[13-Jan-2025 09:45:57 UTC] Payment record inserted successfully.
+[13-Jan-2025 09:45:57 UTC] PHP Notice:  Undefined index: user_id in /home4/mhmounyc/public_html/memberlink/api/add_payment.php on line 8
+[13-Jan-2025 09:45:57 UTC] PHP Notice:  Undefined index: membership_id in /home4/mhmounyc/public_html/memberlink/api/add_payment.php on line 9
+[13-Jan-2025 09:45:57 UTC] PHP Notice:  Undefined index: payment_amount in /home4/mhmounyc/public_html/memberlink/api/add_payment.php on line 10
+[13-Jan-2025 09:45:57 UTC] PHP Notice:  Undefined index: title in /home4/mhmounyc/public_html/memberlink/api/insert_news.php on line 9
+[13-Jan-2025 09:45:57 UTC] PHP Notice:  Undefined index: details in /home4/mhmounyc/public_html/memberlink/api/insert_news.php on line 10
+[13-Jan-2025 09:45:57 UTC] Payment URL created successfully: https://www.billplz-sandbox.com/bills/5he68e7s
+[13-Jan-2025 09:45:57 UTC] PHP Notice:  Undefined index: email in /home4/mhmounyc/public_html/memberlink/api/login_user.php on line 12
+[13-Jan-2025 09:45:57 UTC] PHP Notice:  Undefined index: password in /home4/mhmounyc/public_html/memberlink/api/login_user.php on line 13
+[13-Jan-2025 09:46:00 UTC] PHP Notice:  Undefined index: user_id in /home4/mhmounyc/public_html/memberlink/api/add_payment.php on line 8
+[13-Jan-2025 09:46:00 UTC] PHP Notice:  Undefined index: membership_id in /home4/mhmounyc/public_html/memberlink/api/add_payment.php on line 9
+[13-Jan-2025 09:46:00 UTC] PHP Notice:  Undefined index: payment_amount in /home4/mhmounyc/public_html/memberlink/api/add_payment.php on line 10
+[13-Jan-2025 09:46:01 UTC] PHP Notice:  Undefined index: title in /home4/mhmounyc/public_html/memberlink/api/insert_news.php on line 9
+[13-Jan-2025 09:46:01 UTC] PHP Notice:  Undefined index: details in /home4/mhmounyc/public_html/memberlink/api/insert_news.php on line 10
+[13-Jan-2025 09:46:01 UTC] PHP Notice:  Undefined index: email in /home4/mhmounyc/public_html/memberlink/api/login_user.php on line 12
+[13-Jan-2025 09:46:01 UTC] PHP Notice:  Undefined index: password in /home4/mhmounyc/public_html/memberlink/api/login_user.php on line 13
+[13-Jan-2025 09:51:05 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 09:51:05 UTC] Received Amount: 19.99
+[13-Jan-2025 09:51:05 UTC] Received Checkout Type: membership
+[13-Jan-2025 09:51:05 UTC] Received Membership ID: 1
+[13-Jan-2025 09:51:05 UTC] Payment record inserted successfully.
+[13-Jan-2025 09:51:05 UTC] Payment URL created successfully: https://www.billplz-sandbox.com/bills/obxzwff7
+[13-Jan-2025 09:53:09 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 09:53:09 UTC] Received Amount: 19.99
+[13-Jan-2025 09:53:09 UTC] Received Checkout Type: membership
+[13-Jan-2025 09:53:09 UTC] Received Membership ID: 1
+[13-Jan-2025 09:53:09 UTC] Payment record inserted successfully.
+[13-Jan-2025 09:53:10 UTC] Payment URL created successfully: https://www.billplz-sandbox.com/bills/brrkrkwj
+[13-Jan-2025 09:54:33 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 09:54:33 UTC] Received Amount: 19.99
+[13-Jan-2025 09:54:33 UTC] Received Checkout Type: membership
+[13-Jan-2025 09:54:33 UTC] Received Membership ID: 1
+[13-Jan-2025 09:54:33 UTC] Payment record inserted successfully.
+[13-Jan-2025 09:54:34 UTC] Payment URL created successfully: https://www.billplz-sandbox.com/bills/64jfl84n
+[13-Jan-2025 10:02:31 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 10:02:31 UTC] Received Amount: 19.99
+[13-Jan-2025 10:02:31 UTC] Received Checkout Type: membership
+[13-Jan-2025 10:02:31 UTC] Received Membership ID: 1
+[13-Jan-2025 10:02:31 UTC] Payment record inserted successfully.
+[13-Jan-2025 10:02:32 UTC] Payment URL created successfully: https://www.billplz-sandbox.com/bills/gquvqtno
+[13-Jan-2025 10:05:16 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 10:05:16 UTC] Received Amount: 19.99
+[13-Jan-2025 10:05:16 UTC] Received Checkout Type: membership
+[13-Jan-2025 10:05:16 UTC] Received Membership ID: 1
+[13-Jan-2025 10:05:16 UTC] Payment record inserted successfully.
+[13-Jan-2025 10:05:17 UTC] Payment URL created successfully: https://www.billplz-sandbox.com/bills/bejqtnix
+[13-Jan-2025 10:07:27 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 10:07:27 UTC] Received Amount: 49.99
+[13-Jan-2025 10:07:27 UTC] Received Checkout Type: membership
+[13-Jan-2025 10:07:27 UTC] Received Membership ID: 2
+[13-Jan-2025 10:07:27 UTC] Payment record inserted successfully.
+[13-Jan-2025 10:07:28 UTC] Payment URL created successfully: https://www.billplz-sandbox.com/bills/ebgjc7b0
+[13-Jan-2025 10:10:27 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 10:10:27 UTC] Received Amount: 19.99
+[13-Jan-2025 10:10:27 UTC] Received Checkout Type: membership
+[13-Jan-2025 10:10:27 UTC] Received Membership ID: 1
+[13-Jan-2025 10:10:27 UTC] Payment record inserted successfully.
+[13-Jan-2025 10:10:28 UTC] Payment URL created successfully: https://www.billplz-sandbox.com/bills/anmrsyud
+[13-Jan-2025 10:12:09 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 10:12:09 UTC] Received Amount: 19.99
+[13-Jan-2025 10:12:09 UTC] Received Checkout Type: membership
+[13-Jan-2025 10:12:09 UTC] Received Membership ID: 1
+[13-Jan-2025 10:12:09 UTC] Payment record inserted successfully.
+[13-Jan-2025 10:12:10 UTC] Payment URL created successfully: https://www.billplz-sandbox.com/bills/02vex60h
+[13-Jan-2025 10:17:56 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 10:17:56 UTC] Received Amount: 19.99
+[13-Jan-2025 10:17:56 UTC] Received Checkout Type: membership
+[13-Jan-2025 10:17:56 UTC] Received Membership ID: 1
+[13-Jan-2025 10:17:56 UTC] Payment record inserted successfully.
+[13-Jan-2025 10:18:26 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home4/mhmounyc/public_html/memberlink/api/payment.php on line 116
+[13-Jan-2025 10:18:38 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 10:18:38 UTC] Received Amount: 19.99
+[13-Jan-2025 10:18:38 UTC] Received Checkout Type: membership
+[13-Jan-2025 10:18:38 UTC] Received Membership ID: 1
+[13-Jan-2025 10:18:38 UTC] Payment record inserted successfully.
+[13-Jan-2025 10:19:25 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 10:19:25 UTC] Received Amount: 19.99
+[13-Jan-2025 10:19:25 UTC] Received Checkout Type: membership
+[13-Jan-2025 10:19:25 UTC] Received Membership ID: 1
+[13-Jan-2025 10:19:25 UTC] Payment record inserted successfully.
+[13-Jan-2025 10:19:49 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 10:19:49 UTC] Received Amount: 19.99
+[13-Jan-2025 10:19:49 UTC] Received Checkout Type: membership
+[13-Jan-2025 10:19:49 UTC] Received Membership ID: 1
+[13-Jan-2025 10:19:49 UTC] Payment record inserted successfully.
+[13-Jan-2025 10:20:13 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 10:20:13 UTC] Received Amount: 19.99
+[13-Jan-2025 10:20:13 UTC] Received Checkout Type: membership
+[13-Jan-2025 10:20:13 UTC] Received Membership ID: 1
+[13-Jan-2025 10:20:13 UTC] Payment record inserted successfully.
+[13-Jan-2025 10:20:35 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 10:20:35 UTC] Received Amount: 19.99
+[13-Jan-2025 10:20:35 UTC] Received Checkout Type: membership
+[13-Jan-2025 10:20:35 UTC] Received Membership ID: 1
+[13-Jan-2025 10:20:35 UTC] Payment record inserted successfully.
+[13-Jan-2025 10:22:38 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 10:22:38 UTC] Received Amount: 19.99
+[13-Jan-2025 10:22:38 UTC] Received Checkout Type: membership
+[13-Jan-2025 10:22:38 UTC] Received Membership ID: 1
+[13-Jan-2025 10:22:38 UTC] Payment record inserted successfully.
+[13-Jan-2025 10:24:54 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 10:24:54 UTC] Received Amount: 19.99
+[13-Jan-2025 10:24:54 UTC] Received Checkout Type: membership
+[13-Jan-2025 10:24:54 UTC] Received Membership ID: 1
+[13-Jan-2025 10:24:54 UTC] Payment record inserted successfully.
+[13-Jan-2025 10:25:17 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 10:25:17 UTC] Received Amount: 19.99
+[13-Jan-2025 10:25:17 UTC] Received Checkout Type: membership
+[13-Jan-2025 10:25:17 UTC] Received Membership ID: 1
+[13-Jan-2025 10:25:17 UTC] Payment record inserted successfully.
+[13-Jan-2025 10:25:55 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 10:25:55 UTC] Received Amount: 19.99
+[13-Jan-2025 10:25:55 UTC] Received Checkout Type: membership
+[13-Jan-2025 10:25:55 UTC] Received Membership ID: 1
+[13-Jan-2025 10:25:55 UTC] Payment record inserted successfully.
+[13-Jan-2025 10:40:17 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 10:40:17 UTC] Received Amount: 19.99
+[13-Jan-2025 10:40:17 UTC] Received Checkout Type: membership
+[13-Jan-2025 10:40:17 UTC] Received Membership ID: 1
+[13-Jan-2025 10:40:17 UTC] Payment record inserted successfully.
+[13-Jan-2025 10:41:24 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 10:41:24 UTC] Received Amount: 19.99
+[13-Jan-2025 10:41:24 UTC] Received Checkout Type: membership
+[13-Jan-2025 10:41:24 UTC] Received Membership ID: 1
+[13-Jan-2025 10:41:24 UTC] Payment record inserted successfully.
+[13-Jan-2025 10:42:11 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 10:42:11 UTC] Received Amount: 19.99
+[13-Jan-2025 10:42:11 UTC] Received Checkout Type: membership
+[13-Jan-2025 10:42:11 UTC] Received Membership ID: 1
+[13-Jan-2025 10:42:11 UTC] Payment record inserted successfully.
+[13-Jan-2025 10:45:29 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 10:45:29 UTC] Received Amount: 19.99
+[13-Jan-2025 10:45:29 UTC] Received Checkout Type: membership
+[13-Jan-2025 10:45:29 UTC] Received Membership ID: 1
+[13-Jan-2025 10:45:29 UTC] Payment record inserted successfully.
+[13-Jan-2025 10:47:47 UTC] PHP Notice:  Undefined index: user_id in /home4/mhmounyc/public_html/memberlink/api/add_payment.php on line 8
+[13-Jan-2025 10:47:47 UTC] PHP Notice:  Undefined index: membership_id in /home4/mhmounyc/public_html/memberlink/api/add_payment.php on line 9
+[13-Jan-2025 10:47:47 UTC] PHP Notice:  Undefined index: payment_amount in /home4/mhmounyc/public_html/memberlink/api/add_payment.php on line 10
+[13-Jan-2025 10:47:47 UTC] PHP Notice:  Undefined index: newsid in /home4/mhmounyc/public_html/memberlink/api/delete_news.php on line 9
+[13-Jan-2025 10:47:47 UTC] PHP Notice:  Undefined index: title in /home4/mhmounyc/public_html/memberlink/api/insert_news.php on line 9
+[13-Jan-2025 10:47:47 UTC] PHP Notice:  Undefined index: details in /home4/mhmounyc/public_html/memberlink/api/insert_news.php on line 10
+[13-Jan-2025 10:47:48 UTC] PHP Notice:  Undefined index: email in /home4/mhmounyc/public_html/memberlink/api/login_user.php on line 12
+[13-Jan-2025 10:47:48 UTC] PHP Notice:  Undefined index: password in /home4/mhmounyc/public_html/memberlink/api/login_user.php on line 13
+[13-Jan-2025 10:47:48 UTC] Received User ID (admin_id): 
+[13-Jan-2025 10:47:48 UTC] Received Amount: 
+[13-Jan-2025 10:47:48 UTC] Received Checkout Type: 
+[13-Jan-2025 10:47:48 UTC] Missing required inputs.
+[13-Jan-2025 10:47:48 UTC] PHP Notice:  Undefined index: full_name in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 10
+[13-Jan-2025 10:47:48 UTC] PHP Notice:  Undefined index: gender in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 11
+[13-Jan-2025 10:47:48 UTC] PHP Notice:  Undefined index: email in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 12
+[13-Jan-2025 10:47:48 UTC] PHP Notice:  Undefined index: phone in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 13
+[13-Jan-2025 10:47:48 UTC] PHP Notice:  Undefined index: password in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 14
+[13-Jan-2025 10:58:25 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 10:58:25 UTC] Received Amount: 19.99
+[13-Jan-2025 10:58:25 UTC] Received Checkout Type: membership
+[13-Jan-2025 10:58:25 UTC] Received Membership ID: 1
+[13-Jan-2025 10:58:25 UTC] Payment record inserted successfully.
+[13-Jan-2025 11:03:43 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 11:03:43 UTC] Received Amount: 19.99
+[13-Jan-2025 11:03:43 UTC] Received Checkout Type: membership
+[13-Jan-2025 11:03:43 UTC] Received Membership ID: 1
+[13-Jan-2025 11:03:43 UTC] Payment record inserted successfully.
+[13-Jan-2025 11:05:05 UTC] PHP Notice:  Undefined index: user_id in /home4/mhmounyc/public_html/memberlink/api/add_payment.php on line 8
+[13-Jan-2025 11:05:05 UTC] PHP Notice:  Undefined index: membership_id in /home4/mhmounyc/public_html/memberlink/api/add_payment.php on line 9
+[13-Jan-2025 11:05:05 UTC] PHP Notice:  Undefined index: payment_amount in /home4/mhmounyc/public_html/memberlink/api/add_payment.php on line 10
+[13-Jan-2025 11:05:17 UTC] PHP Notice:  Undefined index: user_id in /home4/mhmounyc/public_html/memberlink/api/add_payment.php on line 8
+[13-Jan-2025 11:05:17 UTC] PHP Notice:  Undefined index: membership_id in /home4/mhmounyc/public_html/memberlink/api/add_payment.php on line 9
+[13-Jan-2025 11:05:17 UTC] PHP Notice:  Undefined index: payment_amount in /home4/mhmounyc/public_html/memberlink/api/add_payment.php on line 10
+[13-Jan-2025 11:05:40 UTC] PHP Notice:  Undefined index: newsid in /home4/mhmounyc/public_html/memberlink/api/delete_news.php on line 9
+[13-Jan-2025 11:05:47 UTC] PHP Notice:  Undefined index: newsid in /home4/mhmounyc/public_html/memberlink/api/delete_news.php on line 9
+[13-Jan-2025 11:07:20 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 11:07:20 UTC] Received Amount: 19.99
+[13-Jan-2025 11:07:20 UTC] Received Checkout Type: membership
+[13-Jan-2025 11:07:20 UTC] Received Membership ID: 1
+[13-Jan-2025 11:07:20 UTC] Payment record inserted successfully.
+[13-Jan-2025 11:13:35 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 11:13:35 UTC] Received Amount: 19.99
+[13-Jan-2025 11:13:35 UTC] Received Checkout Type: membership
+[13-Jan-2025 11:13:35 UTC] Received Membership ID: 1
+[13-Jan-2025 11:13:35 UTC] Payment record inserted successfully.
+[13-Jan-2025 11:13:52 UTC] PHP Notice:  Undefined index: email in /home4/mhmounyc/public_html/memberlink/api/login_user.php on line 12
+[13-Jan-2025 11:13:52 UTC] PHP Notice:  Undefined index: password in /home4/mhmounyc/public_html/memberlink/api/login_user.php on line 13
+[13-Jan-2025 11:13:55 UTC] PHP Notice:  Undefined index: email in /home4/mhmounyc/public_html/memberlink/api/login_user.php on line 12
+[13-Jan-2025 11:13:55 UTC] PHP Notice:  Undefined index: password in /home4/mhmounyc/public_html/memberlink/api/login_user.php on line 13
+[13-Jan-2025 11:16:54 UTC] PHP Notice:  Undefined index: full_name in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 10
+[13-Jan-2025 11:16:54 UTC] PHP Notice:  Undefined index: gender in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 11
+[13-Jan-2025 11:16:54 UTC] PHP Notice:  Undefined index: email in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 12
+[13-Jan-2025 11:16:54 UTC] PHP Notice:  Undefined index: phone in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 13
+[13-Jan-2025 11:16:54 UTC] PHP Notice:  Undefined index: password in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 14
+[13-Jan-2025 11:17:06 UTC] PHP Notice:  Undefined index: full_name in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 10
+[13-Jan-2025 11:17:06 UTC] PHP Notice:  Undefined index: gender in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 11
+[13-Jan-2025 11:17:06 UTC] PHP Notice:  Undefined index: email in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 12
+[13-Jan-2025 11:17:06 UTC] PHP Notice:  Undefined index: phone in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 13
+[13-Jan-2025 11:17:06 UTC] PHP Notice:  Undefined index: password in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 14
+[13-Jan-2025 11:18:03 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 11:18:03 UTC] Received Amount: 19.99
+[13-Jan-2025 11:18:03 UTC] Received Checkout Type: membership
+[13-Jan-2025 11:18:03 UTC] Received Membership ID: 1
+[13-Jan-2025 11:18:03 UTC] Payment record inserted successfully.
+[13-Jan-2025 11:18:15 UTC] Received User ID: 22
+[13-Jan-2025 11:18:15 UTC] Received Amount: 19.99
+[13-Jan-2025 11:18:15 UTC] Received Checkout Type: membership
+[13-Jan-2025 11:18:15 UTC] Received Membership ID: 1
+[13-Jan-2025 11:18:15 UTC] Billplz ID: vy5mvrri
+[13-Jan-2025 11:18:15 UTC] Billplz Paid: true
+[13-Jan-2025 11:18:15 UTC] Billplz Paid At: 2025-01-13 19:18:14 +0800
+[13-Jan-2025 11:18:15 UTC] Payment record inserted successfully for User ID: 22, Status: Success
+[13-Jan-2025 11:18:15 UTC] Fetching membership duration with Query: SELECT duration FROM tbl_memberships WHERE membership_id = 1
+[13-Jan-2025 11:18:15 UTC] Error fetching membership duration: Table 'mhmounyc_memberlink_db.tbl_memberships' doesn't exist
+[13-Jan-2025 11:22:38 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 11:22:38 UTC] Received Amount: 19.99
+[13-Jan-2025 11:22:38 UTC] Received Checkout Type: membership
+[13-Jan-2025 11:22:38 UTC] Received Membership ID: 1
+[13-Jan-2025 11:22:38 UTC] Payment record inserted successfully.
+[13-Jan-2025 11:22:51 UTC] Received User ID: 22
+[13-Jan-2025 11:22:51 UTC] Received Amount: 19.99
+[13-Jan-2025 11:22:51 UTC] Received Checkout Type: membership
+[13-Jan-2025 11:22:51 UTC] Received Membership ID: 1
+[13-Jan-2025 11:22:51 UTC] Billplz ID: w9qck0gh
+[13-Jan-2025 11:22:51 UTC] Billplz Paid: true
+[13-Jan-2025 11:22:51 UTC] Billplz Paid At: 2025-01-13 19:22:50 +0800
+[13-Jan-2025 11:22:51 UTC] Payment record inserted successfully for User ID: 22, Status: Success
+[13-Jan-2025 11:22:51 UTC] Fetching membership duration with Query: SELECT duration FROM memberships WHERE membership_id = 1
+[13-Jan-2025 11:22:51 UTC] Fetched Membership Duration: 30
+[13-Jan-2025 11:22:51 UTC] Inserting membership record with Query: INSERT INTO tbl_user_membership_status (user_id, membership_id, start_date, end_date, status)
+                                 VALUES ('22', '1', '2025-01-13', '2025-02-12', 'Active')
+[13-Jan-2025 11:25:44 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 11:25:44 UTC] Received Amount: 19.99
+[13-Jan-2025 11:25:44 UTC] Received Checkout Type: membership
+[13-Jan-2025 11:25:44 UTC] Received Membership ID: 1
+[13-Jan-2025 11:25:44 UTC] Payment record inserted successfully.
+[13-Jan-2025 11:25:57 UTC] Received User ID: 22
+[13-Jan-2025 11:25:57 UTC] Received Amount: 19.99
+[13-Jan-2025 11:25:57 UTC] Received Checkout Type: membership
+[13-Jan-2025 11:25:57 UTC] Received Membership ID: 1
+[13-Jan-2025 11:25:57 UTC] Billplz ID: 0rc77um2
+[13-Jan-2025 11:25:57 UTC] Billplz Paid: true
+[13-Jan-2025 11:25:57 UTC] Billplz Paid At: 2025-01-13 19:25:56 +0800
+[13-Jan-2025 11:25:57 UTC] Payment record inserted successfully for User ID: 22, Status: Success
+[13-Jan-2025 11:25:57 UTC] Fetching membership duration with Query: SELECT duration FROM memberships WHERE membership_id = 1
+[13-Jan-2025 11:25:57 UTC] Fetched Membership Duration: 30
+[13-Jan-2025 11:25:57 UTC] Inserting membership record with Query: INSERT INTO tbl_user_membership_status (user_id, membership_id, start_date, end_date, status)
+                                 VALUES ('22', '1', '2025-01-13', '2025-02-12', 'Active')
+[13-Jan-2025 11:25:57 UTC] Membership record inserted successfully for User ID: 22, Membership ID: 1
+[13-Jan-2025 11:25:57 UTC] Payment completed with Status: Success
+[13-Jan-2025 11:37:38 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 11:37:38 UTC] Received Amount: 19.99
+[13-Jan-2025 11:37:38 UTC] Received Checkout Type: membership
+[13-Jan-2025 11:37:38 UTC] Received Membership ID: 1
+[13-Jan-2025 11:37:38 UTC] Payment record inserted successfully.
+[13-Jan-2025 11:37:52 UTC] Received User ID: 22
+[13-Jan-2025 11:37:52 UTC] Received Amount: 19.99
+[13-Jan-2025 11:37:52 UTC] Received Checkout Type: membership
+[13-Jan-2025 11:37:52 UTC] Received Membership ID: 1
+[13-Jan-2025 11:37:52 UTC] Billplz ID: hk0tk20h
+[13-Jan-2025 11:37:52 UTC] Billplz Paid: true
+[13-Jan-2025 11:37:52 UTC] Billplz Paid At: 2025-01-13 19:37:50 +0800
+[13-Jan-2025 11:37:52 UTC] Purchase record inserted successfully for User ID: 22, Status: Success
+[13-Jan-2025 11:37:52 UTC] Payment record inserted successfully for User ID: 22, Status: Success
+[13-Jan-2025 11:37:52 UTC] Fetching membership duration with Query: SELECT duration FROM memberships WHERE membership_id = 1
+[13-Jan-2025 11:37:52 UTC] Fetched Membership Duration: 30
+[13-Jan-2025 11:37:52 UTC] Inserting membership record with Query: INSERT INTO tbl_user_membership_status (user_id, membership_id, start_date, end_date, status)
+                                 VALUES ('22', '1', '2025-01-13', '2025-02-12', 'Active')
+[13-Jan-2025 11:37:52 UTC] Membership record inserted successfully for User ID: 22, Membership ID: 1
+[13-Jan-2025 11:37:52 UTC] Payment completed with Status: Success
+[13-Jan-2025 11:41:12 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 11:41:12 UTC] Received Amount: 19.99
+[13-Jan-2025 11:41:12 UTC] Received Checkout Type: membership
+[13-Jan-2025 11:41:12 UTC] Received Membership ID: 1
+[13-Jan-2025 11:41:12 UTC] Payment record inserted successfully.
+[13-Jan-2025 11:41:25 UTC] Received User ID: 22
+[13-Jan-2025 11:41:25 UTC] Received Amount: 19.99
+[13-Jan-2025 11:41:25 UTC] Received Checkout Type: membership
+[13-Jan-2025 11:41:25 UTC] Received Membership ID: 1
+[13-Jan-2025 11:41:25 UTC] Billplz ID: imbvghpx
+[13-Jan-2025 11:41:25 UTC] Billplz Paid: true
+[13-Jan-2025 11:41:25 UTC] Billplz Paid At: 2025-01-13 19:41:23 +0800
+[13-Jan-2025 11:41:25 UTC] Purchase record inserted successfully for User ID: 22, Status: Success
+[13-Jan-2025 11:41:25 UTC] Payment record inserted successfully for User ID: 22, Status: Success
+[13-Jan-2025 11:41:25 UTC] Fetching membership duration with Query: SELECT duration FROM memberships WHERE membership_id = 1
+[13-Jan-2025 11:41:25 UTC] Fetched Membership Duration: 30
+[13-Jan-2025 11:41:25 UTC] Inserting membership record with Query: INSERT INTO tbl_user_membership_status (user_id, membership_id, start_date, end_date, status)
+                                 VALUES ('22', '1', '2025-01-13', '2025-02-12', 'Active')
+[13-Jan-2025 11:41:25 UTC] Membership record inserted successfully for User ID: 22, Membership ID: 1
+[13-Jan-2025 11:41:25 UTC] Payment completed with Status: Success
+[13-Jan-2025 11:45:02 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 11:45:02 UTC] Received Amount: 19.99
+[13-Jan-2025 11:45:02 UTC] Received Checkout Type: membership
+[13-Jan-2025 11:45:02 UTC] Received Membership ID: 1
+[13-Jan-2025 11:45:02 UTC] Payment record inserted successfully.
+[13-Jan-2025 11:45:16 UTC] Received User ID: 22
+[13-Jan-2025 11:45:16 UTC] Received Amount: 19.99
+[13-Jan-2025 11:45:16 UTC] Received Checkout Type: membership
+[13-Jan-2025 11:45:16 UTC] Received Membership ID: 1
+[13-Jan-2025 11:45:16 UTC] Billplz ID: xptynpzr
+[13-Jan-2025 11:45:16 UTC] Billplz Paid: true
+[13-Jan-2025 11:45:16 UTC] Billplz Paid At: 2025-01-13 19:45:14 +0800
+[13-Jan-2025 11:45:16 UTC] Payment record inserted successfully for User ID: 22, Status: Success
+[13-Jan-2025 11:45:16 UTC] Purchase record inserted successfully for User ID: 22, Status: Success
+[13-Jan-2025 11:45:16 UTC] Fetching membership duration with Query: SELECT duration FROM memberships WHERE membership_id = 1
+[13-Jan-2025 11:45:16 UTC] Fetched Membership Duration: 30
+[13-Jan-2025 11:45:16 UTC] Inserting membership record with Query: INSERT INTO tbl_user_membership_status (user_id, membership_id, start_date, end_date, status)
+                                 VALUES ('22', '1', '2025-01-13', '2025-02-12', 'Active')
+[13-Jan-2025 11:45:16 UTC] Membership record inserted successfully for User ID: 22, Membership ID: 1
+[13-Jan-2025 11:45:16 UTC] Payment completed with Status: Success
+[13-Jan-2025 11:46:49 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 11:46:49 UTC] Received Amount: 19.99
+[13-Jan-2025 11:46:49 UTC] Received Checkout Type: membership
+[13-Jan-2025 11:46:49 UTC] Received Membership ID: 1
+[13-Jan-2025 11:46:49 UTC] Payment record inserted successfully.
+[13-Jan-2025 11:47:01 UTC] Received User ID: 22
+[13-Jan-2025 11:47:01 UTC] Received Amount: 19.99
+[13-Jan-2025 11:47:01 UTC] Received Checkout Type: membership
+[13-Jan-2025 11:47:01 UTC] Received Membership ID: 1
+[13-Jan-2025 11:47:01 UTC] Billplz ID: qliyx1bz
+[13-Jan-2025 11:47:01 UTC] Billplz Paid: true
+[13-Jan-2025 11:47:01 UTC] Billplz Paid At: 2025-01-13 19:46:59 +0800
+[13-Jan-2025 11:47:01 UTC] Purchase record inserted successfully for User ID: 22, Status: Success
+[13-Jan-2025 11:47:01 UTC] Payment record inserted successfully for User ID: 22, Status: Success
+[13-Jan-2025 11:47:01 UTC] Fetching membership duration with Query: SELECT duration FROM memberships WHERE membership_id = 1
+[13-Jan-2025 11:47:01 UTC] Fetched Membership Duration: 30
+[13-Jan-2025 11:47:01 UTC] Inserting membership record with Query: INSERT INTO tbl_user_membership_status (user_id, membership_id, start_date, end_date, status)
+                                 VALUES ('22', '1', '2025-01-13', '2025-02-12', 'Active')
+[13-Jan-2025 11:47:01 UTC] Membership record inserted successfully for User ID: 22, Membership ID: 1
+[13-Jan-2025 11:47:01 UTC] Payment completed with Status: Success
+[13-Jan-2025 11:47:32 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 11:47:32 UTC] Received Amount: 19.99
+[13-Jan-2025 11:47:32 UTC] Received Checkout Type: membership
+[13-Jan-2025 11:47:32 UTC] Received Membership ID: 1
+[13-Jan-2025 11:47:32 UTC] Payment record inserted successfully.
+[13-Jan-2025 11:47:44 UTC] Received User ID: 22
+[13-Jan-2025 11:47:44 UTC] Received Amount: 19.99
+[13-Jan-2025 11:47:44 UTC] Received Checkout Type: membership
+[13-Jan-2025 11:47:44 UTC] Received Membership ID: 1
+[13-Jan-2025 11:47:44 UTC] Billplz ID: fkk20psg
+[13-Jan-2025 11:47:44 UTC] Billplz Paid: true
+[13-Jan-2025 11:47:44 UTC] Billplz Paid At: 2025-01-13 19:47:43 +0800
+[13-Jan-2025 11:47:44 UTC] Purchase record inserted successfully for User ID: 22, Status: Success
+[13-Jan-2025 11:47:44 UTC] Payment record inserted successfully for User ID: 22, Status: Success
+[13-Jan-2025 11:47:44 UTC] Fetching membership duration with Query: SELECT duration FROM memberships WHERE membership_id = 1
+[13-Jan-2025 11:47:44 UTC] Fetched Membership Duration: 30
+[13-Jan-2025 11:47:44 UTC] Inserting membership record with Query: INSERT INTO tbl_user_membership_status (user_id, membership_id, start_date, end_date, status)
+                                 VALUES ('22', '1', '2025-01-13', '2025-02-12', 'Active')
+[13-Jan-2025 11:47:44 UTC] Membership record inserted successfully for User ID: 22, Membership ID: 1
+[13-Jan-2025 11:47:44 UTC] Payment completed with Status: Success
+[13-Jan-2025 11:50:55 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 11:50:55 UTC] Received Amount: 19.99
+[13-Jan-2025 11:50:55 UTC] Received Checkout Type: membership
+[13-Jan-2025 11:50:55 UTC] Received Membership ID: 1
+[13-Jan-2025 11:50:55 UTC] Payment record inserted successfully.
+[13-Jan-2025 11:51:10 UTC] Received User ID: 22
+[13-Jan-2025 11:51:10 UTC] Received Amount: 19.99
+[13-Jan-2025 11:51:10 UTC] Received Checkout Type: membership
+[13-Jan-2025 11:51:10 UTC] Received Membership ID: 1
+[13-Jan-2025 11:51:10 UTC] Billplz ID: bd5khsym
+[13-Jan-2025 11:51:10 UTC] Billplz Paid: true
+[13-Jan-2025 11:51:10 UTC] Billplz Paid At: 2025-01-13 19:51:08 +0800
+[13-Jan-2025 11:51:10 UTC] Payment record inserted successfully for User ID: 22, Status: Success
+[13-Jan-2025 11:51:10 UTC] Fetching membership duration with Query: SELECT duration FROM memberships WHERE membership_id = 1
+[13-Jan-2025 11:51:10 UTC] Fetched Membership Duration: 30
+[13-Jan-2025 11:51:10 UTC] Inserting membership record with Query: INSERT INTO tbl_user_membership_status (user_id, membership_id, start_date, end_date, status)
+                                 VALUES ('22', '1', '2025-01-13', '2025-02-12', 'Active')
+[13-Jan-2025 11:51:10 UTC] Membership record inserted successfully for User ID: 22, Membership ID: 1
+[13-Jan-2025 11:51:10 UTC] Payment completed with Status: Success
+[13-Jan-2025 11:54:05 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 11:54:05 UTC] Received Amount: 49.99
+[13-Jan-2025 11:54:05 UTC] Received Checkout Type: membership
+[13-Jan-2025 11:54:05 UTC] Received Membership ID: 2
+[13-Jan-2025 11:54:05 UTC] Payment record inserted successfully.
+[13-Jan-2025 11:54:18 UTC] Received User ID: 22
+[13-Jan-2025 11:54:18 UTC] Received Amount: 49.99
+[13-Jan-2025 11:54:18 UTC] Received Checkout Type: membership
+[13-Jan-2025 11:54:18 UTC] Received Membership ID: 2
+[13-Jan-2025 11:54:18 UTC] Billplz ID: 0jvnw13z
+[13-Jan-2025 11:54:18 UTC] Billplz Paid: true
+[13-Jan-2025 11:54:18 UTC] Billplz Paid At: 2025-01-13 19:54:16 +0800
+[13-Jan-2025 11:54:18 UTC] Payment record inserted successfully for User ID: 22, Status: Success
+[13-Jan-2025 11:54:18 UTC] Fetching membership duration with Query: SELECT duration FROM memberships WHERE membership_id = 2
+[13-Jan-2025 11:54:18 UTC] Fetched Membership Duration: 90
+[13-Jan-2025 11:54:18 UTC] Inserting membership record with Query: INSERT INTO tbl_user_membership_status (user_id, membership_id, start_date, end_date, status)
+                                 VALUES ('22', '2', '2025-01-13', '2025-04-13', 'Active')
+[13-Jan-2025 11:54:18 UTC] Membership record inserted successfully for User ID: 22, Membership ID: 2
+[13-Jan-2025 11:54:18 UTC] Payment completed with Status: Success
+[13-Jan-2025 11:56:19 UTC] PHP Notice:  Undefined index: newsid in /home4/mhmounyc/public_html/memberlink/api/delete_news.php on line 9
+[13-Jan-2025 11:56:19 UTC] PHP Notice:  Undefined index: email in /home4/mhmounyc/public_html/memberlink/api/login_user.php on line 12
+[13-Jan-2025 11:56:19 UTC] PHP Notice:  Undefined index: password in /home4/mhmounyc/public_html/memberlink/api/login_user.php on line 13
+[13-Jan-2025 11:56:19 UTC] PHP Notice:  Undefined index: user_id in /home4/mhmounyc/public_html/memberlink/api/add_payment.php on line 8
+[13-Jan-2025 11:56:19 UTC] PHP Notice:  Undefined index: membership_id in /home4/mhmounyc/public_html/memberlink/api/add_payment.php on line 9
+[13-Jan-2025 11:56:19 UTC] PHP Notice:  Undefined index: payment_amount in /home4/mhmounyc/public_html/memberlink/api/add_payment.php on line 10
+[13-Jan-2025 11:56:19 UTC] Received User ID (admin_id): 
+[13-Jan-2025 11:56:19 UTC] Received Amount: 
+[13-Jan-2025 11:56:19 UTC] Received Checkout Type: 
+[13-Jan-2025 11:56:19 UTC] Missing required inputs.
+[13-Jan-2025 11:56:19 UTC] PHP Notice:  Undefined index: title in /home4/mhmounyc/public_html/memberlink/api/insert_news.php on line 9
+[13-Jan-2025 11:56:19 UTC] PHP Notice:  Undefined index: details in /home4/mhmounyc/public_html/memberlink/api/insert_news.php on line 10
+[13-Jan-2025 11:56:21 UTC] Received User ID: 
+[13-Jan-2025 11:56:21 UTC] Received Amount: 
+[13-Jan-2025 11:56:21 UTC] Received Checkout Type: 
+[13-Jan-2025 11:56:21 UTC] Received Membership ID: 
+[13-Jan-2025 11:56:30 UTC] PHP Notice:  Undefined index: full_name in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 10
+[13-Jan-2025 11:56:30 UTC] PHP Notice:  Undefined index: gender in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 11
+[13-Jan-2025 11:56:30 UTC] PHP Notice:  Undefined index: email in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 12
+[13-Jan-2025 11:56:30 UTC] PHP Notice:  Undefined index: phone in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 13
+[13-Jan-2025 11:56:30 UTC] PHP Notice:  Undefined index: password in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 14
+[13-Jan-2025 12:00:18 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 12:00:18 UTC] Received Amount: 49.99
+[13-Jan-2025 12:00:18 UTC] Received Checkout Type: membership
+[13-Jan-2025 12:00:18 UTC] Received Membership ID: 2
+[13-Jan-2025 12:00:18 UTC] Payment record inserted successfully.
+[13-Jan-2025 12:00:33 UTC] Received User ID: 22
+[13-Jan-2025 12:00:33 UTC] Received Amount: 49.99
+[13-Jan-2025 12:00:33 UTC] Received Checkout Type: membership
+[13-Jan-2025 12:00:33 UTC] Received Membership ID: 2
+[13-Jan-2025 12:00:33 UTC] Billplz ID: rtyjwsxl
+[13-Jan-2025 12:00:33 UTC] Billplz Paid: true
+[13-Jan-2025 12:00:33 UTC] Billplz Paid At: 2025-01-13 20:00:31 +0800
+[13-Jan-2025 12:00:33 UTC] Purchase record inserted successfully for User ID: 22, Status: Success
+[13-Jan-2025 12:00:33 UTC] Payment record inserted successfully for User ID: 22, Status: Success
+[13-Jan-2025 12:00:33 UTC] Fetching membership duration with Query: SELECT duration FROM memberships WHERE membership_id = 2
+[13-Jan-2025 12:00:33 UTC] Fetched Membership Duration: 90
+[13-Jan-2025 12:00:33 UTC] Inserting membership record with Query: INSERT INTO tbl_user_membership_status (user_id, membership_id, start_date, end_date, status)
+                                 VALUES ('22', '2', '2025-01-13', '2025-04-13', 'Active')
+[13-Jan-2025 12:00:33 UTC] Membership record inserted successfully for User ID: 22, Membership ID: 2
+[13-Jan-2025 12:00:33 UTC] Payment completed with Status: Success
+[13-Jan-2025 13:31:43 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 13:31:43 UTC] Received Amount: 19.99
+[13-Jan-2025 13:31:43 UTC] Received Checkout Type: membership
+[13-Jan-2025 13:31:43 UTC] Received Membership ID: 1
+[13-Jan-2025 13:31:43 UTC] Payment record inserted successfully.
+[13-Jan-2025 13:32:01 UTC] Received User ID: 22
+[13-Jan-2025 13:32:01 UTC] Received Amount: 19.99
+[13-Jan-2025 13:32:01 UTC] Received Checkout Type: membership
+[13-Jan-2025 13:32:01 UTC] Received Membership ID: 1
+[13-Jan-2025 13:32:01 UTC] Billplz ID: u5hjnwry
+[13-Jan-2025 13:32:01 UTC] Billplz Paid: true
+[13-Jan-2025 13:32:01 UTC] Billplz Paid At: 2025-01-13 21:32:00 +0800
+[13-Jan-2025 13:32:01 UTC] Payment record inserted successfully for User ID: 22, Status: Success
+[13-Jan-2025 13:32:01 UTC] Duplicate purchase entry detected. Skipping insertion.
+[13-Jan-2025 13:32:01 UTC] Fetching membership duration with Query: SELECT duration FROM memberships WHERE membership_id = 1
+[13-Jan-2025 13:32:01 UTC] Fetched Membership Duration: 30
+[13-Jan-2025 13:32:01 UTC] Inserting membership record with Query: INSERT INTO tbl_user_membership_status (user_id, membership_id, start_date, end_date, status)
+                                 VALUES ('22', '1', '2025-01-13', '2025-02-12', 'Active')
+[13-Jan-2025 13:32:01 UTC] Membership record inserted successfully for User ID: 22, Membership ID: 1
+[13-Jan-2025 13:32:01 UTC] Payment completed with Status: Success
+[13-Jan-2025 13:36:39 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 13:36:39 UTC] Received Amount: 19.99
+[13-Jan-2025 13:36:39 UTC] Received Checkout Type: membership
+[13-Jan-2025 13:36:39 UTC] Received Membership ID: 1
+[13-Jan-2025 13:36:39 UTC] Payment record inserted successfully.
+[13-Jan-2025 13:37:06 UTC] Received User ID: 22
+[13-Jan-2025 13:37:06 UTC] Received Amount: 19.99
+[13-Jan-2025 13:37:06 UTC] Received Checkout Type: membership
+[13-Jan-2025 13:37:06 UTC] Received Membership ID: 1
+[13-Jan-2025 13:37:06 UTC] Billplz ID: crmlmtwi
+[13-Jan-2025 13:37:06 UTC] Billplz Paid: true
+[13-Jan-2025 13:37:06 UTC] Billplz Paid At: 2025-01-13 21:37:04 +0800
+[13-Jan-2025 13:37:06 UTC] Duplicate payment entry detected. Skipping insertion.
+[13-Jan-2025 13:37:06 UTC] Duplicate purchase entry detected. Skipping insertion.
+[13-Jan-2025 13:37:06 UTC] Fetching membership duration with Query: SELECT duration FROM memberships WHERE membership_id = 1
+[13-Jan-2025 13:37:06 UTC] Fetched Membership Duration: 30
+[13-Jan-2025 13:37:06 UTC] Inserting membership record with Query: INSERT INTO tbl_user_membership_status (user_id, membership_id, start_date, end_date, status)
+                                 VALUES ('22', '1', '2025-01-13', '2025-02-12', 'Active')
+[13-Jan-2025 13:37:06 UTC] Membership record inserted successfully for User ID: 22, Membership ID: 1
+[13-Jan-2025 13:37:06 UTC] Payment completed with Status: Success
+[13-Jan-2025 13:37:44 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 13:37:44 UTC] Received Amount: 19.99
+[13-Jan-2025 13:37:44 UTC] Received Checkout Type: membership
+[13-Jan-2025 13:37:44 UTC] Received Membership ID: 1
+[13-Jan-2025 13:37:44 UTC] Payment record inserted successfully.
+[13-Jan-2025 13:37:57 UTC] Received User ID: 22
+[13-Jan-2025 13:37:57 UTC] Received Amount: 19.99
+[13-Jan-2025 13:37:57 UTC] Received Checkout Type: membership
+[13-Jan-2025 13:37:57 UTC] Received Membership ID: 1
+[13-Jan-2025 13:37:57 UTC] Billplz ID: 6l0nnjcp
+[13-Jan-2025 13:37:57 UTC] Billplz Paid: true
+[13-Jan-2025 13:37:57 UTC] Billplz Paid At: 2025-01-13 21:37:55 +0800
+[13-Jan-2025 13:37:57 UTC] Duplicate payment entry detected. Skipping insertion.
+[13-Jan-2025 13:37:57 UTC] Duplicate purchase entry detected. Skipping insertion.
+[13-Jan-2025 13:37:57 UTC] Fetching membership duration with Query: SELECT duration FROM memberships WHERE membership_id = 1
+[13-Jan-2025 13:37:57 UTC] Fetched Membership Duration: 30
+[13-Jan-2025 13:37:57 UTC] Inserting membership record with Query: INSERT INTO tbl_user_membership_status (user_id, membership_id, start_date, end_date, status)
+                                 VALUES ('22', '1', '2025-01-13', '2025-02-12', 'Active')
+[13-Jan-2025 13:37:57 UTC] Membership record inserted successfully for User ID: 22, Membership ID: 1
+[13-Jan-2025 13:37:57 UTC] Payment completed with Status: Success
+[13-Jan-2025 13:49:49 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 13:49:49 UTC] Received Amount: 19.99
+[13-Jan-2025 13:49:49 UTC] Received Checkout Type: membership
+[13-Jan-2025 13:49:49 UTC] Received Membership ID: 1
+[13-Jan-2025 13:49:49 UTC] Payment record inserted successfully.
+[13-Jan-2025 13:50:06 UTC] Received User ID: 22
+[13-Jan-2025 13:50:06 UTC] Received Amount: 19.99
+[13-Jan-2025 13:50:06 UTC] Received Checkout Type: membership
+[13-Jan-2025 13:50:06 UTC] Received Membership ID: 1
+[13-Jan-2025 13:50:06 UTC] Billplz ID: fntaafgx
+[13-Jan-2025 13:50:06 UTC] Billplz Paid: true
+[13-Jan-2025 13:50:06 UTC] Billplz Paid At: 2025-01-13 21:50:05 +0800
+[13-Jan-2025 13:50:06 UTC] Payment record inserted successfully for User ID: 22, Status: Success, Receipt ID: fntaafgx
+[13-Jan-2025 13:50:06 UTC] Duplicate purchase entry detected. Skipping insertion.
+[13-Jan-2025 13:50:06 UTC] Fetching membership duration with Query: SELECT duration FROM memberships WHERE membership_id = 1
+[13-Jan-2025 13:50:06 UTC] Fetched Membership Duration: 30
+[13-Jan-2025 13:50:06 UTC] Inserting membership record with Query: INSERT INTO tbl_user_membership_status (user_id, membership_id, start_date, end_date, status)
+                                 VALUES ('22', '1', '2025-01-13', '2025-02-12', 'Active')
+[13-Jan-2025 13:50:06 UTC] Membership record inserted successfully for User ID: 22, Membership ID: 1
+[13-Jan-2025 13:50:06 UTC] Payment completed with Status: Success
+[13-Jan-2025 13:53:30 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 13:53:30 UTC] Received Amount: 19.99
+[13-Jan-2025 13:53:30 UTC] Received Checkout Type: membership
+[13-Jan-2025 13:53:30 UTC] Received Membership ID: 1
+[13-Jan-2025 13:53:30 UTC] Payment record inserted successfully.
+[13-Jan-2025 13:53:43 UTC] Received User ID: 22
+[13-Jan-2025 13:53:43 UTC] Received Amount: 19.99
+[13-Jan-2025 13:53:43 UTC] Received Checkout Type: membership
+[13-Jan-2025 13:53:43 UTC] Received Membership ID: 1
+[13-Jan-2025 13:53:43 UTC] Billplz ID: wwmllwj8
+[13-Jan-2025 13:53:43 UTC] Billplz Paid: true
+[13-Jan-2025 13:53:43 UTC] Billplz Paid At: 2025-01-13 21:53:41 +0800
+[13-Jan-2025 13:53:43 UTC] Payment record inserted successfully for User ID: 22, Status: Success, Receipt ID: wwmllwj8
+[13-Jan-2025 13:53:43 UTC] Duplicate purchase entry detected. Skipping insertion.
+[13-Jan-2025 13:53:43 UTC] Fetching membership duration with Query: SELECT duration FROM memberships WHERE membership_id = 1
+[13-Jan-2025 13:53:43 UTC] Fetched Membership Duration: 30
+[13-Jan-2025 13:53:43 UTC] Inserting membership record with Query: INSERT INTO tbl_user_membership_status (user_id, membership_id, start_date, end_date, status)
+                                 VALUES ('22', '1', '2025-01-13', '2025-02-12', 'Active')
+[13-Jan-2025 13:53:43 UTC] Membership record inserted successfully for User ID: 22, Membership ID: 1
+[13-Jan-2025 13:53:43 UTC] Payment completed with Status: Success
+[13-Jan-2025 13:54:44 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 13:54:44 UTC] Received Amount: 19.99
+[13-Jan-2025 13:54:44 UTC] Received Checkout Type: membership
+[13-Jan-2025 13:54:44 UTC] Received Membership ID: 1
+[13-Jan-2025 13:54:44 UTC] Payment record inserted successfully.
+[13-Jan-2025 13:54:58 UTC] Received User ID: 22
+[13-Jan-2025 13:54:58 UTC] Received Amount: 19.99
+[13-Jan-2025 13:54:58 UTC] Received Checkout Type: membership
+[13-Jan-2025 13:54:58 UTC] Received Membership ID: 1
+[13-Jan-2025 13:54:58 UTC] Billplz ID: 1vldha2l
+[13-Jan-2025 13:54:58 UTC] Billplz Paid: true
+[13-Jan-2025 13:54:58 UTC] Billplz Paid At: 2025-01-13 21:54:57 +0800
+[13-Jan-2025 13:54:58 UTC] Payment record inserted successfully for User ID: 22, Status: Success, Receipt ID: 1vldha2l
+[13-Jan-2025 13:54:58 UTC] Duplicate purchase entry detected. Skipping insertion.
+[13-Jan-2025 13:54:58 UTC] Fetching membership duration with Query: SELECT duration FROM memberships WHERE membership_id = 1
+[13-Jan-2025 13:54:58 UTC] Fetched Membership Duration: 30
+[13-Jan-2025 13:54:58 UTC] Inserting membership record with Query: INSERT INTO tbl_user_membership_status (user_id, membership_id, start_date, end_date, status)
+                                 VALUES ('22', '1', '2025-01-13', '2025-02-12', 'Active')
+[13-Jan-2025 13:54:58 UTC] Membership record inserted successfully for User ID: 22, Membership ID: 1
+[13-Jan-2025 13:54:58 UTC] Payment completed with Status: Success
+[13-Jan-2025 13:57:43 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 13:57:43 UTC] Received Amount: 19.99
+[13-Jan-2025 13:57:43 UTC] Received Checkout Type: membership
+[13-Jan-2025 13:57:43 UTC] Received Membership ID: 1
+[13-Jan-2025 13:57:43 UTC] Payment record inserted successfully.
+[13-Jan-2025 13:57:56 UTC] Received User ID: 22
+[13-Jan-2025 13:57:56 UTC] Received Amount: 19.99
+[13-Jan-2025 13:57:56 UTC] Received Checkout Type: membership
+[13-Jan-2025 13:57:56 UTC] Received Membership ID: 1
+[13-Jan-2025 13:57:56 UTC] Billplz ID: asrgysb7
+[13-Jan-2025 13:57:56 UTC] Billplz Paid: true
+[13-Jan-2025 13:57:56 UTC] Billplz Paid At: 2025-01-13 21:57:55 +0800
+[13-Jan-2025 13:57:57 UTC] Payment record inserted successfully for User ID: 22, Status: Success, Receipt ID: asrgysb7
+[13-Jan-2025 13:57:57 UTC] Duplicate purchase entry detected. Skipping insertion.
+[13-Jan-2025 13:57:57 UTC] Fetching membership duration with Query: SELECT duration FROM memberships WHERE membership_id = 1
+[13-Jan-2025 13:57:57 UTC] Fetched Membership Duration: 30
+[13-Jan-2025 13:57:57 UTC] Inserting membership record with Query: INSERT INTO tbl_user_membership_status (user_id, membership_id, start_date, end_date, status)
+                                 VALUES ('22', '1', '2025-01-13', '2025-02-12', 'Active')
+[13-Jan-2025 13:57:57 UTC] Membership record inserted successfully for User ID: 22, Membership ID: 1
+[13-Jan-2025 13:57:57 UTC] Payment completed with Status: Success
+[13-Jan-2025 14:01:11 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 14:01:11 UTC] Received Amount: 19.99
+[13-Jan-2025 14:01:11 UTC] Received Checkout Type: membership
+[13-Jan-2025 14:01:11 UTC] Received Membership ID: 1
+[13-Jan-2025 14:01:11 UTC] Payment record inserted successfully.
+[13-Jan-2025 14:01:29 UTC] Received User ID: 22
+[13-Jan-2025 14:01:29 UTC] Received Amount: 19.99
+[13-Jan-2025 14:01:29 UTC] Received Checkout Type: membership
+[13-Jan-2025 14:01:29 UTC] Received Membership ID: 1
+[13-Jan-2025 14:01:29 UTC] Billplz ID: ojdlecrp
+[13-Jan-2025 14:01:29 UTC] Billplz Paid: true
+[13-Jan-2025 14:01:29 UTC] Billplz Paid At: 2025-01-13 22:01:28 +0800
+[13-Jan-2025 14:01:29 UTC] Payment record inserted successfully for User ID: 22, Status: Success, Receipt ID: ojdlecrp
+[13-Jan-2025 14:01:29 UTC] Duplicate purchase entry detected. Skipping insertion.
+[13-Jan-2025 14:01:29 UTC] Fetching membership duration with Query: SELECT duration FROM memberships WHERE membership_id = 1
+[13-Jan-2025 14:01:29 UTC] Fetched Membership Duration: 30
+[13-Jan-2025 14:01:29 UTC] Inserting membership record with Query: INSERT INTO tbl_user_membership_status (user_id, membership_id, start_date, end_date, status)
+                                 VALUES ('22', '1', '2025-01-13', '2025-02-12', 'Active')
+[13-Jan-2025 14:01:29 UTC] Membership record inserted successfully for User ID: 22, Membership ID: 1
+[13-Jan-2025 14:01:29 UTC] Payment completed with Status: Success
+[13-Jan-2025 14:09:46 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 14:09:46 UTC] Received Amount: 19.99
+[13-Jan-2025 14:09:46 UTC] Received Checkout Type: membership
+[13-Jan-2025 14:09:46 UTC] Received Membership ID: 1
+[13-Jan-2025 14:09:46 UTC] Payment record inserted successfully.
+[13-Jan-2025 14:10:00 UTC] Received User ID: 22
+[13-Jan-2025 14:10:00 UTC] Received Amount: 19.99
+[13-Jan-2025 14:10:00 UTC] Received Checkout Type: membership
+[13-Jan-2025 14:10:00 UTC] Received Membership ID: 1
+[13-Jan-2025 14:10:00 UTC] Billplz ID: oeuxcciy
+[13-Jan-2025 14:10:00 UTC] Billplz Paid: true
+[13-Jan-2025 14:10:00 UTC] Payment record inserted successfully for User ID: 22, Status: Success, Receipt ID: oeuxcciy
+[13-Jan-2025 14:10:00 UTC] Duplicate purchase entry detected. Skipping insertion.
+[13-Jan-2025 14:11:15 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 14:11:15 UTC] Received Amount: 19.99
+[13-Jan-2025 14:11:15 UTC] Received Checkout Type: membership
+[13-Jan-2025 14:11:15 UTC] Received Membership ID: 1
+[13-Jan-2025 14:11:15 UTC] Duplicate pending payment detected for User ID: 22
+[13-Jan-2025 14:11:25 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 14:11:25 UTC] Received Amount: 49.99
+[13-Jan-2025 14:11:25 UTC] Received Checkout Type: membership
+[13-Jan-2025 14:11:25 UTC] Received Membership ID: 2
+[13-Jan-2025 14:11:25 UTC] Duplicate pending payment detected for User ID: 22
+[13-Jan-2025 14:11:30 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 14:11:30 UTC] Received Amount: 99.99
+[13-Jan-2025 14:11:30 UTC] Received Checkout Type: membership
+[13-Jan-2025 14:11:30 UTC] Received Membership ID: 3
+[13-Jan-2025 14:11:42 UTC] Received User ID: 22
+[13-Jan-2025 14:11:42 UTC] Received Amount: 99.99
+[13-Jan-2025 14:11:42 UTC] Received Checkout Type: membership
+[13-Jan-2025 14:11:42 UTC] Received Membership ID: 3
+[13-Jan-2025 14:11:42 UTC] Billplz ID: wq4ufeo3
+[13-Jan-2025 14:11:42 UTC] Billplz Paid: true
+[13-Jan-2025 14:11:42 UTC] Payment record inserted successfully for User ID: 22, Status: Success, Receipt ID: wq4ufeo3
+[13-Jan-2025 14:11:42 UTC] Purchase record inserted successfully for User ID: 22, Status: Success
+[13-Jan-2025 14:12:56 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 14:12:56 UTC] Received Amount: 19.99
+[13-Jan-2025 14:12:56 UTC] Received Checkout Type: membership
+[13-Jan-2025 14:12:56 UTC] Received Membership ID: 1
+[13-Jan-2025 14:12:56 UTC] Payment record inserted successfully.
+[13-Jan-2025 14:20:35 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 14:20:35 UTC] Received Amount: 19.99
+[13-Jan-2025 14:20:35 UTC] Received Checkout Type: membership
+[13-Jan-2025 14:20:35 UTC] Received Membership ID: 1
+[13-Jan-2025 14:20:35 UTC] Duplicate pending payment detected for User ID: 22
+[13-Jan-2025 14:20:43 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 14:20:43 UTC] Received Amount: 49.99
+[13-Jan-2025 14:20:43 UTC] Received Checkout Type: membership
+[13-Jan-2025 14:20:43 UTC] Received Membership ID: 2
+[13-Jan-2025 14:20:43 UTC] Duplicate pending payment detected for User ID: 22
+[13-Jan-2025 14:20:47 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 14:20:47 UTC] Received Amount: 99.99
+[13-Jan-2025 14:20:47 UTC] Received Checkout Type: membership
+[13-Jan-2025 14:20:47 UTC] Received Membership ID: 3
+[13-Jan-2025 14:20:47 UTC] Duplicate pending payment detected for User ID: 22
+[13-Jan-2025 14:26:50 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 14:26:50 UTC] Received Amount: 19.99
+[13-Jan-2025 14:26:50 UTC] Received Checkout Type: membership
+[13-Jan-2025 14:26:50 UTC] Received Membership ID: 1
+[13-Jan-2025 14:34:29 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 14:34:29 UTC] Received Amount: 19.99
+[13-Jan-2025 14:34:29 UTC] Received Checkout Type: membership
+[13-Jan-2025 14:34:29 UTC] Payment record inserted successfully.
+[13-Jan-2025 14:34:52 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 14:34:52 UTC] Received Amount: 19.99
+[13-Jan-2025 14:34:52 UTC] Received Checkout Type: membership
+[13-Jan-2025 14:34:52 UTC] Duplicate pending payment detected for User ID: 22
+[13-Jan-2025 14:36:03 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 14:36:03 UTC] Received Amount: 19.99
+[13-Jan-2025 14:36:03 UTC] Received Checkout Type: membership
+[13-Jan-2025 14:36:03 UTC] Payment record inserted successfully.
+[13-Jan-2025 14:39:18 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 14:39:18 UTC] Received Amount: 19.99
+[13-Jan-2025 14:39:18 UTC] Received Checkout Type: membership
+[13-Jan-2025 14:39:18 UTC] Duplicate pending payment detected for User ID: 22
+[13-Jan-2025 14:42:57 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 14:42:57 UTC] Received Amount: 19.99
+[13-Jan-2025 14:42:57 UTC] Received Checkout Type: membership
+[13-Jan-2025 14:42:57 UTC] Received Membership ID: 1
+[13-Jan-2025 14:42:57 UTC] Payment record inserted successfully.
+[13-Jan-2025 14:43:12 UTC] Received User ID: 22
+[13-Jan-2025 14:43:12 UTC] Received Amount: 19.99
+[13-Jan-2025 14:43:12 UTC] Received Checkout Type: membership
+[13-Jan-2025 14:43:12 UTC] Received Membership ID: 1
+[13-Jan-2025 14:43:12 UTC] Billplz ID: 4pru2rdl
+[13-Jan-2025 14:43:12 UTC] Billplz Paid: true
+[13-Jan-2025 14:43:12 UTC] Payment record inserted successfully for User ID: 22, Status: Success, Receipt ID: 4pru2rdl
+[13-Jan-2025 14:43:12 UTC] Purchase record inserted successfully for User ID: 22, Status: Success
+[13-Jan-2025 14:51:19 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 14:51:19 UTC] Received Amount: 19.99
+[13-Jan-2025 14:51:19 UTC] Received Checkout Type: membership
+[13-Jan-2025 14:51:19 UTC] Received Membership ID: 1
+[13-Jan-2025 14:51:19 UTC] Payment record inserted successfully.
+[13-Jan-2025 14:51:43 UTC] Received User ID: 22
+[13-Jan-2025 14:51:43 UTC] Received Amount: 19.99
+[13-Jan-2025 14:51:43 UTC] Received Checkout Type: membership
+[13-Jan-2025 14:51:43 UTC] Received Membership ID: 1
+[13-Jan-2025 14:51:43 UTC] Billplz ID: m4tnxcae
+[13-Jan-2025 14:51:43 UTC] Billplz Paid: true
+[13-Jan-2025 14:51:43 UTC] Payment record updated successfully for User ID: 22, Status: Success, Receipt ID: m4tnxcae
+[13-Jan-2025 14:51:43 UTC] Membership status updated for User ID: 22, Membership ID: 1
+[13-Jan-2025 15:03:04 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 15:03:04 UTC] Received Amount: 19.99
+[13-Jan-2025 15:03:04 UTC] Received Checkout Type: membership
+[13-Jan-2025 15:03:04 UTC] Received Membership ID: 1
+[13-Jan-2025 15:03:04 UTC] Payment record inserted successfully.
+[13-Jan-2025 15:03:23 UTC] Received User ID: 22
+[13-Jan-2025 15:03:23 UTC] Received Amount: 19.99
+[13-Jan-2025 15:03:23 UTC] Received Checkout Type: membership
+[13-Jan-2025 15:03:23 UTC] Received Membership ID: 1
+[13-Jan-2025 15:03:23 UTC] Billplz ID: e7lidw70
+[13-Jan-2025 15:03:23 UTC] Billplz Paid: true
+[13-Jan-2025 15:03:23 UTC] Payment record updated successfully for User ID: 22, Status: Success, Receipt ID: e7lidw70
+[13-Jan-2025 15:03:23 UTC] Membership status updated for User ID: 22, Membership ID: 1
+[13-Jan-2025 15:03:23 UTC] Purchase record inserted successfully for User ID: 22, Membership ID: 1
+[13-Jan-2025 17:32:24 UTC] PHP Notice:  Undefined index: amount in /home4/mhmounyc/public_html/memberlink/api/process_purchase.php on line 32
+[13-Jan-2025 17:32:56 UTC] PHP Notice:  Undefined index: amount in /home4/mhmounyc/public_html/memberlink/api/process_purchase.php on line 32
+[13-Jan-2025 18:12:24 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 18:12:24 UTC] Received Amount: 19.99
+[13-Jan-2025 18:12:24 UTC] Received Checkout Type: membership
+[13-Jan-2025 18:12:24 UTC] Received Membership ID: 1
+[13-Jan-2025 18:12:24 UTC] Payment record inserted successfully.
+[13-Jan-2025 18:12:41 UTC] Received User ID: 22
+[13-Jan-2025 18:12:41 UTC] Received Amount: 19.99
+[13-Jan-2025 18:12:41 UTC] Received Checkout Type: membership
+[13-Jan-2025 18:12:41 UTC] Received Membership ID: 1
+[13-Jan-2025 18:12:41 UTC] Billplz ID: ygzl4a75
+[13-Jan-2025 18:12:41 UTC] Billplz Paid: true
+[13-Jan-2025 18:12:41 UTC] Payment record updated successfully for User ID: 22, Status: Success, Receipt ID: ygzl4a75
+[13-Jan-2025 18:12:41 UTC] Membership status updated for User ID: 22, Membership ID: 1
+[13-Jan-2025 18:12:42 UTC] Purchase record inserted successfully for User ID: 22, Membership ID: 1
+[13-Jan-2025 18:13:21 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 18:13:21 UTC] Received Amount: 19.99
+[13-Jan-2025 18:13:21 UTC] Received Checkout Type: membership
+[13-Jan-2025 18:13:21 UTC] Received Membership ID: 1
+[13-Jan-2025 18:13:21 UTC] Payment record inserted successfully.
+[13-Jan-2025 18:25:23 UTC] PHP Notice:  Undefined index: user_id in /home4/mhmounyc/public_html/memberlink/api/add_payment.php on line 8
+[13-Jan-2025 18:25:23 UTC] PHP Notice:  Undefined index: membership_id in /home4/mhmounyc/public_html/memberlink/api/add_payment.php on line 9
+[13-Jan-2025 18:25:23 UTC] PHP Notice:  Undefined index: payment_amount in /home4/mhmounyc/public_html/memberlink/api/add_payment.php on line 10
+[13-Jan-2025 18:25:23 UTC] PHP Notice:  Undefined index: newsid in /home4/mhmounyc/public_html/memberlink/api/delete_news.php on line 9
+[13-Jan-2025 18:25:24 UTC] PHP Notice:  Undefined index: title in /home4/mhmounyc/public_html/memberlink/api/insert_news.php on line 9
+[13-Jan-2025 18:25:24 UTC] PHP Notice:  Undefined index: details in /home4/mhmounyc/public_html/memberlink/api/insert_news.php on line 10
+[13-Jan-2025 18:25:25 UTC] PHP Notice:  Undefined index: email in /home4/mhmounyc/public_html/memberlink/api/login_user.php on line 12
+[13-Jan-2025 18:25:25 UTC] PHP Notice:  Undefined index: password in /home4/mhmounyc/public_html/memberlink/api/login_user.php on line 13
+[13-Jan-2025 18:25:25 UTC] Received User ID (admin_id): 
+[13-Jan-2025 18:25:25 UTC] Received Amount: 
+[13-Jan-2025 18:25:25 UTC] Received Checkout Type: 
+[13-Jan-2025 18:25:25 UTC] Missing required inputs.
+[13-Jan-2025 18:25:25 UTC] Received User ID: 
+[13-Jan-2025 18:25:25 UTC] Received Amount: 
+[13-Jan-2025 18:25:25 UTC] Received Checkout Type: 
+[13-Jan-2025 18:25:25 UTC] Received Membership ID: 
+[13-Jan-2025 18:25:25 UTC] Received User ID: 
+[13-Jan-2025 18:25:25 UTC] Received Amount: 
+[13-Jan-2025 18:25:25 UTC] Received Checkout Type: 
+[13-Jan-2025 18:25:25 UTC] Received Membership ID: 
+[13-Jan-2025 18:25:25 UTC] PHP Notice:  Undefined index: user_id in /home4/mhmounyc/public_html/memberlink/api/process_membership_upgrade.php on line 10
+[13-Jan-2025 18:25:25 UTC] PHP Notice:  Undefined index: membership_id in /home4/mhmounyc/public_html/memberlink/api/process_membership_upgrade.php on line 11
+[13-Jan-2025 18:25:25 UTC] PHP Notice:  Undefined index: amount in /home4/mhmounyc/public_html/memberlink/api/process_membership_upgrade.php on line 12
+[13-Jan-2025 18:25:25 UTC] PHP Notice:  Undefined index: user_id in /home4/mhmounyc/public_html/memberlink/api/process_purchase.php on line 5
+[13-Jan-2025 18:25:25 UTC] PHP Notice:  Undefined index: membership_id in /home4/mhmounyc/public_html/memberlink/api/process_purchase.php on line 6
+[13-Jan-2025 18:25:25 UTC] PHP Notice:  Undefined index: full_name in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 10
+[13-Jan-2025 18:25:25 UTC] PHP Notice:  Undefined index: gender in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 11
+[13-Jan-2025 18:25:25 UTC] PHP Notice:  Undefined index: email in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 12
+[13-Jan-2025 18:25:25 UTC] PHP Notice:  Undefined index: phone in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 13
+[13-Jan-2025 18:25:25 UTC] PHP Notice:  Undefined index: password in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 14
+[13-Jan-2025 18:27:22 UTC] PHP Notice:  Undefined index: user_id in /home4/mhmounyc/public_html/memberlink/api/add_payment.php on line 8
+[13-Jan-2025 18:27:22 UTC] PHP Notice:  Undefined index: membership_id in /home4/mhmounyc/public_html/memberlink/api/add_payment.php on line 9
+[13-Jan-2025 18:27:22 UTC] PHP Notice:  Undefined index: payment_amount in /home4/mhmounyc/public_html/memberlink/api/add_payment.php on line 10
+[13-Jan-2025 18:27:28 UTC] PHP Notice:  Undefined index: user_id in /home4/mhmounyc/public_html/memberlink/api/add_payment.php on line 8
+[13-Jan-2025 18:27:28 UTC] PHP Notice:  Undefined index: membership_id in /home4/mhmounyc/public_html/memberlink/api/add_payment.php on line 9
+[13-Jan-2025 18:27:28 UTC] PHP Notice:  Undefined index: payment_amount in /home4/mhmounyc/public_html/memberlink/api/add_payment.php on line 10
+[13-Jan-2025 18:27:29 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 18:27:29 UTC] Received Amount: 19.99
+[13-Jan-2025 18:27:29 UTC] Received Checkout Type: membership
+[13-Jan-2025 18:27:29 UTC] Received Membership ID: 1
+[13-Jan-2025 18:27:29 UTC] Payment record inserted successfully.
+[13-Jan-2025 18:27:44 UTC] PHP Notice:  Undefined index: user_id in /home4/mhmounyc/public_html/memberlink/api/check_membership_status.php on line 4
+[13-Jan-2025 18:27:44 UTC] PHP Notice:  Undefined index: membership_id in /home4/mhmounyc/public_html/memberlink/api/check_membership_status.php on line 5
+[13-Jan-2025 18:27:44 UTC] Received User ID: 22
+[13-Jan-2025 18:27:44 UTC] Received Amount: 19.99
+[13-Jan-2025 18:27:44 UTC] Received Checkout Type: membership
+[13-Jan-2025 18:27:44 UTC] Received Membership ID: 1
+[13-Jan-2025 18:27:44 UTC] Billplz ID: aljdidyv
+[13-Jan-2025 18:27:44 UTC] Billplz Paid: true
+[13-Jan-2025 18:27:44 UTC] Payment record updated successfully for User ID: 22, Status: Success, Receipt ID: aljdidyv
+[13-Jan-2025 18:27:44 UTC] Membership status updated for User ID: 22, Membership ID: 1
+[13-Jan-2025 18:27:44 UTC] Purchase record inserted successfully for User ID: 22, Membership ID: 1
+[13-Jan-2025 18:27:49 UTC] PHP Notice:  Undefined index: user_id in /home4/mhmounyc/public_html/memberlink/api/check_membership_status.php on line 4
+[13-Jan-2025 18:27:49 UTC] PHP Notice:  Undefined index: membership_id in /home4/mhmounyc/public_html/memberlink/api/check_membership_status.php on line 5
+[13-Jan-2025 18:28:07 UTC] PHP Notice:  Undefined index: newsid in /home4/mhmounyc/public_html/memberlink/api/delete_news.php on line 9
+[13-Jan-2025 18:28:09 UTC] PHP Notice:  Undefined index: newsid in /home4/mhmounyc/public_html/memberlink/api/delete_news.php on line 9
+[13-Jan-2025 18:28:21 UTC] PHP Notice:  Undefined index: title in /home4/mhmounyc/public_html/memberlink/api/insert_news.php on line 9
+[13-Jan-2025 18:28:21 UTC] PHP Notice:  Undefined index: details in /home4/mhmounyc/public_html/memberlink/api/insert_news.php on line 10
+[13-Jan-2025 18:28:22 UTC] PHP Notice:  Undefined index: title in /home4/mhmounyc/public_html/memberlink/api/insert_news.php on line 9
+[13-Jan-2025 18:28:22 UTC] PHP Notice:  Undefined index: details in /home4/mhmounyc/public_html/memberlink/api/insert_news.php on line 10
+[13-Jan-2025 18:28:32 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 18:28:32 UTC] Received Amount: 49.99
+[13-Jan-2025 18:28:32 UTC] Received Checkout Type: membership
+[13-Jan-2025 18:28:32 UTC] Received Membership ID: 2
+[13-Jan-2025 18:28:32 UTC] Payment record inserted successfully.
+[13-Jan-2025 18:28:33 UTC] PHP Notice:  Undefined index: email in /home4/mhmounyc/public_html/memberlink/api/login_user.php on line 12
+[13-Jan-2025 18:28:33 UTC] PHP Notice:  Undefined index: password in /home4/mhmounyc/public_html/memberlink/api/login_user.php on line 13
+[13-Jan-2025 18:28:33 UTC] PHP Notice:  Undefined index: email in /home4/mhmounyc/public_html/memberlink/api/login_user.php on line 12
+[13-Jan-2025 18:28:33 UTC] PHP Notice:  Undefined index: password in /home4/mhmounyc/public_html/memberlink/api/login_user.php on line 13
+[13-Jan-2025 18:28:34 UTC] Received User ID (admin_id): 
+[13-Jan-2025 18:28:34 UTC] Received Amount: 
+[13-Jan-2025 18:28:34 UTC] Received Checkout Type: 
+[13-Jan-2025 18:28:34 UTC] Missing required inputs.
+[13-Jan-2025 18:28:34 UTC] Received User ID (admin_id): 
+[13-Jan-2025 18:28:34 UTC] Received Amount: 
+[13-Jan-2025 18:28:34 UTC] Received Checkout Type: 
+[13-Jan-2025 18:28:34 UTC] Missing required inputs.
+[13-Jan-2025 18:28:35 UTC] Received User ID: 
+[13-Jan-2025 18:28:35 UTC] Received Amount: 
+[13-Jan-2025 18:28:35 UTC] Received Checkout Type: 
+[13-Jan-2025 18:28:35 UTC] Received Membership ID: 
+[13-Jan-2025 18:28:35 UTC] Received User ID: 
+[13-Jan-2025 18:28:35 UTC] Received Amount: 
+[13-Jan-2025 18:28:35 UTC] Received Checkout Type: 
+[13-Jan-2025 18:28:35 UTC] Received Membership ID: 
+[13-Jan-2025 18:28:36 UTC] PHP Notice:  Undefined index: user_id in /home4/mhmounyc/public_html/memberlink/api/process_membership_upgrade.php on line 10
+[13-Jan-2025 18:28:36 UTC] PHP Notice:  Undefined index: membership_id in /home4/mhmounyc/public_html/memberlink/api/process_membership_upgrade.php on line 11
+[13-Jan-2025 18:28:36 UTC] PHP Notice:  Undefined index: amount in /home4/mhmounyc/public_html/memberlink/api/process_membership_upgrade.php on line 12
+[13-Jan-2025 18:28:36 UTC] PHP Notice:  Undefined index: user_id in /home4/mhmounyc/public_html/memberlink/api/process_membership_upgrade.php on line 10
+[13-Jan-2025 18:28:36 UTC] PHP Notice:  Undefined index: membership_id in /home4/mhmounyc/public_html/memberlink/api/process_membership_upgrade.php on line 11
+[13-Jan-2025 18:28:36 UTC] PHP Notice:  Undefined index: amount in /home4/mhmounyc/public_html/memberlink/api/process_membership_upgrade.php on line 12
+[13-Jan-2025 18:28:37 UTC] PHP Notice:  Undefined index: user_id in /home4/mhmounyc/public_html/memberlink/api/process_purchase.php on line 5
+[13-Jan-2025 18:28:37 UTC] PHP Notice:  Undefined index: membership_id in /home4/mhmounyc/public_html/memberlink/api/process_purchase.php on line 6
+[13-Jan-2025 18:28:37 UTC] PHP Notice:  Undefined index: user_id in /home4/mhmounyc/public_html/memberlink/api/process_purchase.php on line 5
+[13-Jan-2025 18:28:37 UTC] PHP Notice:  Undefined index: membership_id in /home4/mhmounyc/public_html/memberlink/api/process_purchase.php on line 6
+[13-Jan-2025 18:28:37 UTC] PHP Notice:  Undefined index: full_name in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 10
+[13-Jan-2025 18:28:37 UTC] PHP Notice:  Undefined index: gender in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 11
+[13-Jan-2025 18:28:37 UTC] PHP Notice:  Undefined index: email in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 12
+[13-Jan-2025 18:28:37 UTC] PHP Notice:  Undefined index: phone in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 13
+[13-Jan-2025 18:28:37 UTC] PHP Notice:  Undefined index: password in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 14
+[13-Jan-2025 18:28:38 UTC] PHP Notice:  Undefined index: full_name in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 10
+[13-Jan-2025 18:28:38 UTC] PHP Notice:  Undefined index: gender in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 11
+[13-Jan-2025 18:28:38 UTC] PHP Notice:  Undefined index: email in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 12
+[13-Jan-2025 18:28:38 UTC] PHP Notice:  Undefined index: phone in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 13
+[13-Jan-2025 18:28:38 UTC] PHP Notice:  Undefined index: password in /home4/mhmounyc/public_html/memberlink/api/register_user.php on line 14
+[13-Jan-2025 18:28:44 UTC] Received User ID: 22
+[13-Jan-2025 18:28:44 UTC] Received Amount: 49.99
+[13-Jan-2025 18:28:44 UTC] Received Checkout Type: membership
+[13-Jan-2025 18:28:44 UTC] Received Membership ID: 2
+[13-Jan-2025 18:28:44 UTC] Billplz ID: qru27slb
+[13-Jan-2025 18:28:44 UTC] Billplz Paid: true
+[13-Jan-2025 18:28:44 UTC] Payment record updated successfully for User ID: 22, Status: Success, Receipt ID: qru27slb
+[13-Jan-2025 18:28:44 UTC] Membership status updated for User ID: 22, Membership ID: 2
+[13-Jan-2025 18:28:44 UTC] Purchase record inserted successfully for User ID: 22, Membership ID: 2
+[13-Jan-2025 18:42:08 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 18:42:08 UTC] Received Amount: 19.99
+[13-Jan-2025 18:42:08 UTC] Received Checkout Type: membership
+[13-Jan-2025 18:42:08 UTC] Received Membership ID: 1
+[13-Jan-2025 18:42:08 UTC] Payment record inserted successfully.
+[13-Jan-2025 18:42:25 UTC] Received User ID: 22
+[13-Jan-2025 18:42:25 UTC] Received Amount: 19.99
+[13-Jan-2025 18:42:25 UTC] Received Checkout Type: membership
+[13-Jan-2025 18:42:25 UTC] Received Membership ID: 1
+[13-Jan-2025 18:42:25 UTC] Billplz ID: qnv7cnvr
+[13-Jan-2025 18:42:25 UTC] Billplz Paid: true
+[13-Jan-2025 18:42:25 UTC] Payment record updated successfully for User ID: 22, Status: Success, Receipt ID: qnv7cnvr
+[13-Jan-2025 18:42:25 UTC] Membership status updated for User ID: 22, Membership ID: 1
+[13-Jan-2025 18:42:25 UTC] Purchase record inserted successfully for User ID: 22, Membership ID: 1
+[13-Jan-2025 18:42:38 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 18:42:38 UTC] Received Amount: 49.99
+[13-Jan-2025 18:42:38 UTC] Received Checkout Type: membership
+[13-Jan-2025 18:42:38 UTC] Received Membership ID: 2
+[13-Jan-2025 18:42:38 UTC] Payment record inserted successfully.
+[13-Jan-2025 18:42:50 UTC] Received User ID: 22
+[13-Jan-2025 18:42:50 UTC] Received Amount: 49.99
+[13-Jan-2025 18:42:50 UTC] Received Checkout Type: membership
+[13-Jan-2025 18:42:50 UTC] Received Membership ID: 2
+[13-Jan-2025 18:42:50 UTC] Billplz ID: 1nmaozal
+[13-Jan-2025 18:42:50 UTC] Billplz Paid: true
+[13-Jan-2025 18:42:50 UTC] Payment record updated successfully for User ID: 22, Status: Success, Receipt ID: 1nmaozal
+[13-Jan-2025 18:42:50 UTC] Membership status updated for User ID: 22, Membership ID: 2
+[13-Jan-2025 18:42:50 UTC] Purchase record inserted successfully for User ID: 22, Membership ID: 2
+[13-Jan-2025 18:54:28 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 18:54:28 UTC] Received Amount: 19.99
+[13-Jan-2025 18:54:28 UTC] Received Checkout Type: membership
+[13-Jan-2025 18:54:28 UTC] Received Membership ID: 1
+[13-Jan-2025 18:54:28 UTC] Payment record inserted successfully.
+[13-Jan-2025 18:54:44 UTC] Received User ID: 22
+[13-Jan-2025 18:54:44 UTC] Received Amount: 19.99
+[13-Jan-2025 18:54:44 UTC] Received Checkout Type: membership
+[13-Jan-2025 18:54:44 UTC] Received Membership ID: 1
+[13-Jan-2025 18:54:44 UTC] Billplz ID: u0tkshdn
+[13-Jan-2025 18:54:44 UTC] Billplz Paid: true
+[13-Jan-2025 18:54:44 UTC] Payment record updated successfully for User ID: 22, Status: Success, Receipt ID: u0tkshdn
+[13-Jan-2025 18:54:44 UTC] Membership status updated for User ID: 22, Membership ID: 1
+[13-Jan-2025 18:54:44 UTC] Purchase record inserted successfully for User ID: 22, Membership ID: 1
+[13-Jan-2025 18:55:04 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 18:55:04 UTC] Received Amount: 49.99
+[13-Jan-2025 18:55:04 UTC] Received Checkout Type: membership
+[13-Jan-2025 18:55:04 UTC] Received Membership ID: 2
+[13-Jan-2025 18:55:04 UTC] Payment record inserted successfully.
+[13-Jan-2025 18:55:22 UTC] Received User ID: 22
+[13-Jan-2025 18:55:22 UTC] Received Amount: 49.99
+[13-Jan-2025 18:55:22 UTC] Received Checkout Type: membership
+[13-Jan-2025 18:55:22 UTC] Received Membership ID: 2
+[13-Jan-2025 18:55:22 UTC] Billplz ID: 0fphbnbj
+[13-Jan-2025 18:55:22 UTC] Billplz Paid: true
+[13-Jan-2025 18:55:22 UTC] Payment record updated successfully for User ID: 22, Status: Success, Receipt ID: 0fphbnbj
+[13-Jan-2025 18:55:22 UTC] Membership status updated for User ID: 22, Membership ID: 2
+[13-Jan-2025 18:55:22 UTC] Purchase record inserted successfully for User ID: 22, Membership ID: 2
+[13-Jan-2025 19:16:14 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 19:16:14 UTC] Received Amount: 19.99
+[13-Jan-2025 19:16:14 UTC] Received Checkout Type: membership
+[13-Jan-2025 19:16:14 UTC] Received Membership ID: 1
+[13-Jan-2025 19:16:14 UTC] Payment record inserted successfully.
+[13-Jan-2025 19:16:36 UTC] Received User ID: 22
+[13-Jan-2025 19:16:36 UTC] Received Amount: 19.99
+[13-Jan-2025 19:16:36 UTC] Received Checkout Type: membership
+[13-Jan-2025 19:16:36 UTC] Received Membership ID: 1
+[13-Jan-2025 19:16:36 UTC] Billplz ID: jxlkn5if
+[13-Jan-2025 19:16:36 UTC] Billplz Paid: true
+[13-Jan-2025 19:16:36 UTC] Payment record updated successfully for User ID: 22, Status: Success, Receipt ID: jxlkn5if
+[13-Jan-2025 19:16:36 UTC] Membership status updated for User ID: 22, Membership ID: 1
+[13-Jan-2025 19:16:36 UTC] Purchase record inserted successfully for User ID: 22, Membership ID: 1
+[13-Jan-2025 19:16:46 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 19:16:46 UTC] Received Amount: 49.99
+[13-Jan-2025 19:16:46 UTC] Received Checkout Type: membership
+[13-Jan-2025 19:16:46 UTC] Received Membership ID: 2
+[13-Jan-2025 19:16:46 UTC] Payment record inserted successfully.
+[13-Jan-2025 19:16:57 UTC] Received User ID: 22
+[13-Jan-2025 19:16:57 UTC] Received Amount: 49.99
+[13-Jan-2025 19:16:57 UTC] Received Checkout Type: membership
+[13-Jan-2025 19:16:57 UTC] Received Membership ID: 2
+[13-Jan-2025 19:16:57 UTC] Billplz ID: fi0u0r1f
+[13-Jan-2025 19:16:57 UTC] Billplz Paid: true
+[13-Jan-2025 19:16:57 UTC] Payment record updated successfully for User ID: 22, Status: Success, Receipt ID: fi0u0r1f
+[13-Jan-2025 19:16:57 UTC] Membership status updated for User ID: 22, Membership ID: 2
+[13-Jan-2025 19:16:57 UTC] Purchase record inserted successfully for User ID: 22, Membership ID: 2
+[13-Jan-2025 19:27:20 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 19:27:20 UTC] Received Amount: 19.99
+[13-Jan-2025 19:27:20 UTC] Received Checkout Type: membership
+[13-Jan-2025 19:27:20 UTC] Received Membership ID: 1
+[13-Jan-2025 19:27:20 UTC] Payment record inserted successfully.
+[13-Jan-2025 19:27:34 UTC] Received User ID: 22
+[13-Jan-2025 19:27:34 UTC] Received Amount: 19.99
+[13-Jan-2025 19:27:34 UTC] Received Checkout Type: membership
+[13-Jan-2025 19:27:34 UTC] Received Membership ID: 1
+[13-Jan-2025 19:27:34 UTC] Billplz ID: l9xkcglh
+[13-Jan-2025 19:27:34 UTC] Billplz Paid: true
+[13-Jan-2025 19:27:34 UTC] Payment record updated successfully for User ID: 22, Status: Success, Receipt ID: l9xkcglh
+[13-Jan-2025 19:27:34 UTC] Membership status updated for User ID: 22, Membership ID: 1
+[13-Jan-2025 19:27:34 UTC] Purchase record inserted successfully for User ID: 22, Membership ID: 1
+[13-Jan-2025 19:39:59 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 19:39:59 UTC] Received Amount: 49.99
+[13-Jan-2025 19:39:59 UTC] Received Checkout Type: membership
+[13-Jan-2025 19:39:59 UTC] Received Membership ID: 2
+[13-Jan-2025 19:39:59 UTC] Payment record inserted successfully.
+[13-Jan-2025 19:40:15 UTC] Received User ID: 22
+[13-Jan-2025 19:40:15 UTC] Received Amount: 49.99
+[13-Jan-2025 19:40:15 UTC] Received Checkout Type: membership
+[13-Jan-2025 19:40:15 UTC] Received Membership ID: 2
+[13-Jan-2025 19:40:15 UTC] Billplz ID: kko1cmhg
+[13-Jan-2025 19:40:15 UTC] Billplz Paid: true
+[13-Jan-2025 19:40:15 UTC] Payment record updated successfully for User ID: 22, Status: Success, Receipt ID: kko1cmhg
+[13-Jan-2025 19:40:15 UTC] Membership status updated for User ID: 22, Membership ID: 2
+[13-Jan-2025 19:40:15 UTC] Purchase record inserted successfully for User ID: 22, Membership ID: 2
+[13-Jan-2025 20:03:18 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 20:03:18 UTC] Received Amount: 19.99
+[13-Jan-2025 20:03:18 UTC] Received Checkout Type: membership
+[13-Jan-2025 20:03:18 UTC] Received Membership ID: 1
+[13-Jan-2025 20:03:18 UTC] Payment record inserted successfully.
+[13-Jan-2025 20:03:35 UTC] Received User ID: 22
+[13-Jan-2025 20:03:35 UTC] Received Amount: 19.99
+[13-Jan-2025 20:03:35 UTC] Received Checkout Type: membership
+[13-Jan-2025 20:03:35 UTC] Received Membership ID: 1
+[13-Jan-2025 20:03:35 UTC] Billplz ID: mzeciojo
+[13-Jan-2025 20:03:35 UTC] Billplz Paid: true
+[13-Jan-2025 20:03:35 UTC] Payment record updated successfully for User ID: 22, Status: Success, Receipt ID: mzeciojo
+[13-Jan-2025 20:03:35 UTC] Membership status updated for User ID: 22, Membership ID: 1
+[13-Jan-2025 20:03:35 UTC] Purchase record inserted successfully for User ID: 22, Membership ID: 1
+[13-Jan-2025 20:03:57 UTC] Received User ID (admin_id): 22
+[13-Jan-2025 20:03:57 UTC] Received Amount: 49.99
+[13-Jan-2025 20:03:57 UTC] Received Checkout Type: membership
+[13-Jan-2025 20:03:57 UTC] Received Membership ID: 2
+[13-Jan-2025 20:03:57 UTC] Payment record inserted successfully.
+[13-Jan-2025 20:04:13 UTC] Received User ID: 22
+[13-Jan-2025 20:04:13 UTC] Received Amount: 49.99
+[13-Jan-2025 20:04:13 UTC] Received Checkout Type: membership
+[13-Jan-2025 20:04:13 UTC] Received Membership ID: 2
+[13-Jan-2025 20:04:13 UTC] Billplz ID: 0zxn5ngh
+[13-Jan-2025 20:04:13 UTC] Billplz Paid: true
+[13-Jan-2025 20:04:13 UTC] Payment record updated successfully for User ID: 22, Status: Success, Receipt ID: 0zxn5ngh
+[13-Jan-2025 20:04:13 UTC] Membership status updated for User ID: 22, Membership ID: 2
+[13-Jan-2025 20:04:13 UTC] Purchase record inserted successfully for User ID: 22, Membership ID: 2

@@ -7,6 +7,7 @@ import 'package:member_link/views/main_screen.dart';
 import 'package:member_link/views/auth/register_screen.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:http/http.dart' as http;
+import 'package:member_link/models/user.dart';
 
 class LoginScreen extends StatefulWidget {
   const LoginScreen({super.key});
@@ -188,15 +189,25 @@ class _LoginScreenState extends State<LoginScreen> {
 
     http.post(Uri.parse("${MyConfig.servername}/memberlink/api/login_user.php"),
         body: {"email": email, "password": password}).then((response) {
+      debugPrint("Login API Response: ${response.body}");
       if (response.statusCode == 200) {
         var data = jsonDecode(response.body);
         if (data['status'] == "success") {
+          // Correctly map the fields from the API response
+          User loggedInUser = User.fromJson(data['data']);
+          debugPrint("Logged-In User: ${loggedInUser.toJson()}");
+
           ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
             content: Text("Login Success"),
             backgroundColor: Color.fromARGB(255, 12, 12, 12),
           ));
-          Navigator.push(context,
-              MaterialPageRoute(builder: (content) => const MainScreen()));
+
+          Navigator.push(
+            context,
+            MaterialPageRoute(
+              builder: (content) => MainScreen(user: loggedInUser),
+            ),
+          );
         } else {
           ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
             content: Text("Incorrect Email or Password, Login Failed"),

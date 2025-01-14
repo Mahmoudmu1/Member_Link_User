@@ -1,10 +1,13 @@
 import 'package:flutter/material.dart';
+import 'package:member_link/models/user.dart';
 import 'package:member_link/views/product/product_screen.dart';
+import 'package:member_link/views/membership/membership_page.dart';
 
 class AppDrawer extends StatelessWidget {
+  final User user;
   final Function onLogout;
 
-  const AppDrawer({super.key, required this.onLogout});
+  const AppDrawer({super.key, required this.user, required this.onLogout});
 
   @override
   Widget build(BuildContext context) {
@@ -32,15 +35,15 @@ class AppDrawer extends StatelessWidget {
             },
           ),
           ListTile(
-            leading: const Icon(Icons.shopping_cart), // New Icon for Products
+            leading: const Icon(Icons.shopping_cart),
             title: const Text('Products'),
             onTap: () {
               Navigator.pop(context); // Close the drawer
               Navigator.push(
                 context,
                 MaterialPageRoute(
-                    builder: (context) =>
-                        const ProductScreen()), // Navigate to Product Screen
+                  builder: (context) => const ProductScreen(),
+                ),
               );
             },
           ),
@@ -51,9 +54,20 @@ class AppDrawer extends StatelessWidget {
               Navigator.pop(context); // Close the drawer
               Navigator.push(
                 context,
+                MaterialPageRoute(builder: (context) => const EventsPage()),
+              );
+            },
+          ),
+          ListTile(
+            leading: const Icon(Icons.card_membership),
+            title: const Text('Memberships'),
+            onTap: () {
+              Navigator.pop(context); // Close the drawer
+              Navigator.push(
+                context,
                 MaterialPageRoute(
-                    builder: (context) =>
-                        const EventsPage()), // Navigate to Events Page
+                  builder: (context) => MembershipPage(user: user),
+                ),
               );
             },
           ),
@@ -62,7 +76,6 @@ class AppDrawer extends StatelessWidget {
             title: const Text('Settings'),
             onTap: () {
               Navigator.pop(context); // Close the drawer
-              // Navigate to a Settings page (not implemented here)
             },
           ),
           ListTile(

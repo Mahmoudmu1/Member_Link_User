@@ -339,8 +339,10 @@ class _RegisterScreenState extends State<RegisterScreen> {
             content: Text("Registration Success"),
             backgroundColor: Colors.green,
           ));
-          Navigator.pushReplacement(context,
-              MaterialPageRoute(builder: (content) => const MainScreen()));
+          Navigator.pushReplacement(
+              context,
+              MaterialPageRoute(
+                  builder: (content) => MainScreen(user: data['user'])));
         } else {
           ScaffoldMessenger.of(context).showSnackBar(SnackBar(
             content: Text("Registration Failed: ${data['data']}"),

@@ -3,6 +3,7 @@
 import 'dart:convert'; // For JSON decoding
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
+import 'package:member_link/myconfig.dart';
 
 class ProductScreen extends StatefulWidget {
   const ProductScreen({super.key});
@@ -36,8 +37,8 @@ class _ProductScreenState extends State<ProductScreen> {
 
     try {
       // API URL (replace 'localhost' with your server address)
-      final response = await http
-          .get(Uri.parse('http://localhost/memberlink/api/load_products.php'));
+      final response = await http.get(
+          Uri.parse('${MyConfig.servername}/memberlink/api/load_products.php'));
 
       if (response.statusCode == 200) {
         final data = json.decode(response.body);
@@ -124,7 +125,7 @@ class _ProductScreenState extends State<ProductScreen> {
               children: [
                 Center(
                   child: Image.network(
-                    'http://localhost/memberlink/${product['image']}',
+                    '${MyConfig.servername}/memberlink/${product['image']}',
                     height: 200,
                     width: 200,
                     fit: BoxFit.cover,
@@ -316,7 +317,7 @@ class _ProductScreenState extends State<ProductScreen> {
                                           borderRadius:
                                               BorderRadius.circular(8),
                                           child: Image.network(
-                                            'http://localhost/memberlink/${product['image']}',
+                                            '${MyConfig.servername}/memberlink/${product['image']}',
                                             width: 100,
                                             height: 100,
                                             fit: BoxFit.cover,
@@ -504,7 +505,7 @@ class _CartScreenState extends State<CartScreen> {
                       const EdgeInsets.symmetric(vertical: 8, horizontal: 16),
                   child: ListTile(
                     leading: Image.network(
-                      'http://localhost/memberlink/${product['image']}',
+                      '${MyConfig.servername}/memberlink/${product['image']}',
                       width: 50,
                       height: 50,
                       errorBuilder: (context, error, stackTrace) =>

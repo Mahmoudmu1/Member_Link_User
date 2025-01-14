@@ -33,17 +33,19 @@ if ($result->num_rows > 0) {
     while ($row = $result->fetch_assoc()) {
         $news = array();
         $news['news_id'] = $row['news_id'];
-        $news['news_title'] = $row['news_title'];
-        $news['news_details'] = $row['news_details'];
+        $news['news_title'] = htmlentities($row['news_title']);
+        $news['news_details'] = htmlentities($row['news_details']);
         $news['news_date'] = $row['news_date'];
         array_push($newsarray['news'], $news);
     }
-    $response = array('status' => 'success', 'data' => $newsarray, 'numofpage' => $number_of_page, 'numberofresult' => $number_of_result);
+   $response = array('status' => 'success', 'data' => $newsarray, 'numofpage' => $number_of_page, 'numberofresult' => $number_of_result);
     sendJsonResponse($response);
 } else {
     $response = array('status' => 'failed', 'data' => null, 'numofpage' => $number_of_page, 'numberofresult' => $number_of_result);
     sendJsonResponse($response);
 }
+
+// echo '<pre>'; print_r($response); echo '</pre>';
 
 function sendJsonResponse($sentArray)
 {
